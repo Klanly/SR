@@ -1,0 +1,356 @@
+{
+    "Version": "1",
+    "Iphone": [
+        {
+            "PREFAB_HERO": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_MULTI_MALE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_MULTI_FEMALE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_HUMAN_ACOLYTE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_HUMAN_MAGICKER": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_OGRE_BATTLEMAGE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_OGRE_SHAMAN": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_OGRE_WARLOCK": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_OGRE_WARLORD": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_IMP": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_NEX": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_FIEND": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_VALKYRIE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "BeachCamp": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ToHollowTree": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "HollowTree": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "StatuePath": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ThreeGods": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ToCaveEntrance": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "CaveEntrance": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ForbiddenCave": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "DemonCanyon": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ToDemonFalls": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "DemonFalls": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "LavaScene": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ArcanumRuhalis": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "en_en": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "en_fr": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "en_ge": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "en_it": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "en_sp": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        }
+    ],
+    "Android": [
+        {
+            "PREFAB_HERO": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_MULTI_MALE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_MULTI_FEMALE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_HUMAN_ACOLYTE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_HUMAN_MAGICKER": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_OGRE_BATTLEMAGE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_OGRE_SHAMAN": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_OGRE_WARLOCK": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_OGRE_WARLORD": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_IMP": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_NEX": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_FIEND": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "PREFAB_VALKYRIE": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "BeachCamp": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ToHollowTree": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "HollowTree": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "StatuePath": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ThreeGods": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ToCaveEntrance": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "CaveEntrance": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ForbiddenCave": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "DemonCanyon": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ToDemonFalls": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "DemonFalls": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "LavaScene": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "ArcanumRuhalis": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        },
+        {
+            "en_en": {
+                "version": 1,
+                "url": "LOCAL"
+            }
+        }
+        
+    ]
+}

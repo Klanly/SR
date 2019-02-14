@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -487939381, guid: fb48e3a42295a4bf29460478c563720f, type: 3}
+  m_Name: 455226
+  m_EditorClassIdentifier: 
+  propertyType: 6
+  component: {fileID: 0}
+  componentType: Transform
+  propertyName: position
+  fieldName: 
+  curves:
+  - {fileID: 11400000, guid: eda44302ab93c49c18aee6ead9697836, type: 2}
+  - {fileID: 11400000, guid: b1e68592fec1d43b4aad2acd13a00571, type: 2}
+  - {fileID: 11400000, guid: 6863c4d8e9bdc40f08babdefe2e3fd8c, type: 2}
+  curves0:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  curves1:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  curves2:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  curves3:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2

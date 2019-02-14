@@ -1,0 +1,18 @@
+{
+    "playerGameObject": "Prefabs/LevelPrefabs/PREFAB_HERO",
+    "poiGameObject": "Prefabs/LevelPrefabs/POIGameObject",
+    "CommonTreasureChest" : "Prefabs/LevelPrefabs/Chests/TreasureChestCommon",
+    "RareTreasureChest" : "Prefabs/LevelPrefabs/Chests/TreasureChestRare",
+    "SuperRareTreasureChest" : "Prefabs/LevelPrefabs/Chests/TreasureChestSuperRare",
+    "ogreShamanPrefab": "Prefabs/BattlePrefabs/PREFAB_OGRE_SHAMAN",
+    "ogreWarlockPrefab": "Prefabs/BattlePrefabs/PREFAB_OGRE_WARLOCK",
+    "ogreWarlordPrefab": "Prefabs/BattlePrefabs/PREFAB_OGRE_WARLORD",
+    "ogreBattlemagePrefab": "Prefabs/BattlePrefabs/PREFAB_OGRE_BATTLEMAGE",
+    "humanAcolytePrefab" : "Prefabs/BattlePrefabs/PREFAB_HUMAN_ACOLYTE",
+    "humanMagickerPrefab" : "Prefabs/BattlePrefabs/PREFAB_HUMAN_MAGICKER",
+    "primusNexPrefab" : "Prefabs/BattlePrefabs/PREFAB_NEX",
+    "fiendPrefab" : "Prefabs/BattlePrefabs/PREFAB_FIEND",
+    "shieldObject" : "Prefabs/BattlePrefabs/Ward",
+    "IMP1Prefab" : "Prefabs/BattlePrefabs/PREFAB_IMP",
+    "disappearEnemyParticles" : "Prefabs/BattlePrefabs/DisappearEnemyParticles"
+}

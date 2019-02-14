@@ -1,0 +1,108 @@
+{
+  "User": {
+    "Inventory": {
+      "Bag Items": [
+        
+      ],
+      "Equipped Rings": [
+        {
+          "Type": "Ring",
+          "Ring Name": "Fire Ring",
+          "Skull Level": 10,
+          "Stats": 0,
+          "Fire": "1",
+          "Lightning": "0",
+          "Water": "0",
+          "Earth": "0",
+          "Wards": "0",
+          "Life": "0",
+          "Damage": 1
+        },
+        {
+          "Type": "Ring",
+          "Ring Name": "Water Ring",
+          "Skull Level": 10,
+          "Stats": 0,
+          "Fire": "0",
+          "Lightning": "0",
+          "Water": "1",
+          "Earth": "0",
+          "Wards": "0",
+          "Life": "0",
+          "Damage": 1
+        },
+        {
+          "Type": "Ring",
+          "Ring Name": "Power Ring",
+          "Skull Level": 1,
+          "Stats": 0,
+          "Fire": "0",
+          "Lightning": "0",
+          "Water": "0",
+          "Earth": "0",
+          "Wards": "0",
+          "Life": "0",
+          "Damage": 1
+        },
+        {
+          "Type": "Ring",
+          "Ring Name": "Health Ring",
+          "Skull Level": 1,
+          "Stats": 0,
+          "Fire": "0",
+          "Lightning": "0",
+          "Water": "0",
+          "Earth": "0",
+          "Wards": "0",
+          "Life": "11",
+          "Damage": 0
+        }
+      ],
+      "Staff": [
+        
+      ],
+      "Souls": 1000000,
+      "Gems": 100000,
+      "BAG": "BAG1",
+      "Potion Belt": "POTION_BELT1",
+      "T_CUBE": "T_CUBE1",
+      "Potions": [
+        "HEALTH_POTION",
+        "HEALTH_POTION"
+      ]
+    },
+    "life": 50,
+    "damage": 8,
+    "wards": "10"
+  },
+  "Level": {
+    "LevelID": "ThreeGods",
+    "ZoneID": "Jungle",
+    "PoiList": [
+      {
+        "poi_id": "ThreeGods_DuelA",
+        "isCleared": 0
+      },
+      {
+        "poi_id": "ThreeGods_Loot",
+        "isCleared": 0
+      },
+      {
+        "poi_id": "ThreeGods_ExitA",
+        "isCleared": 0
+      },
+      {
+        "poi_id": "ThreeGods_ExitB",
+        "isCleared": 0
+      },
+      {
+        "poi_id": "ThreeGods_ExitC",
+        "isCleared": 0
+      }
+    ],
+    "LootList": [
+      
+    ]
+  },
+  "skull_level": 6
+}
