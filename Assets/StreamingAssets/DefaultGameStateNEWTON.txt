@@ -1,0 +1,521 @@
+{
+  "$type": "GameStateModule.GameState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "User": {
+    "$type": "User, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "modelName": "",
+    "id": 0,
+    "defaultLife": 20,
+    "defaultDamage": 5,
+    "wards": 0,
+    "_hasFire": false,
+    "_hasLightning": false,
+    "_hasEarth": false,
+    "_hasWater": true,
+    "guild": null,
+    "arcanePoints": 100,
+    "availablePets": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "$values": []
+    },
+    "_transmutationDictionary": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "BaseItems": {
+        "$type": "System.Collections.Generic.List`1[[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "$values": []
+      },
+      "slots": 2
+    },
+    "_buffList": {
+      "$type": "System.Collections.Generic.List`1[[Buff, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "$values": []
+    },
+    "username": "",
+    "_inventory": {
+      "$type": "InventorySystem.Inventory, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "equippedRings": {
+        "$type": "System.Collections.Generic.List`1[[InventorySystem.ItemRing, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "$values": [
+          {
+            "$type": "InventorySystem.ItemRing, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "tag": "H",
+            "itemId": null,
+            "ringType": 0,
+            "stats": 11,
+            "life": 11,
+            "damage": 0,
+            "fire": 0,
+            "water": 0,
+            "earth": 0,
+            "lightning": 0,
+            "wards": 0,
+            "isSuggested": false,
+            "isNew": false,
+            "gCost": 0,
+            "market": false,
+            "uid": "English-52143FAB-4F20-35C212O6",
+            "dCost": 1200,
+            "id": "Healing Band",
+            "skullLevel": 1,
+            "IndexInList": 51,
+            "_itemName": "Healing Band",
+            "_itemType": 0,
+            "sellCost": 300
+          },
+          {
+            "$type": "InventorySystem.ItemRing, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "tag": "W",
+            "itemId": null,
+            "ringType": 0,
+            "stats": 22,
+            "life": 0,
+            "damage": 0,
+            "fire": 0,
+            "water": 1,
+            "earth": 0,
+            "lightning": 0,
+            "wards": 0,
+            "isSuggested": false,
+            "isNew": false,
+            "gCost": 0,
+            "market": false,
+            "uid": "English-52143FAB-4F20-35C21214",
+            "dCost": 3300,
+            "id": "Aquata",
+            "skullLevel": 2,
+            "IndexInList": 52,
+            "_itemName": "Aquata",
+            "_itemType": 0,
+            "sellCost": 825
+          }
+        ]
+      },
+      "staffRunes": {
+        "$type": "System.Collections.Generic.List`1[[InventorySystem.ItemRune, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "$values": [
+          {
+            "$type": "InventorySystem.ItemRune, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "buff": {
+              "$type": "Buff, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "id": "IGNITE",
+              "targetObject": null,
+              "sourceModel": null,
+              "targetModel": null,
+              "buffType": 1,
+              "isPermanent": true,
+              "negatesBuffName": "REGEN",
+              "targetProperty": "life",
+              "modifierValue": -5,
+              "duration": 6,
+              "description": "Burns -5 health for 6 rounds. Negates REGEN.",
+              "skullLevel": 1,
+              "totalDuration": 6
+            },
+            "stats": 14,
+            "tag": "F",
+            "isSuggested": false,
+            "isNew": false,
+            "gCost": 0,
+            "market": false,
+            "uid": "8c5fc0cb-ba08-4d5c-a0e8-f951b91d4003",
+            "dCost": 1700,
+            "id": "Burning Mark",
+            "skullLevel": 1,
+            "IndexInList": 53,
+            "_itemName": "Burning Mark",
+            "_itemType": 7,
+            "element": 0,
+            "sellCost": 425
+          }
+        ]
+      },
+      "potionBelt": {
+        "$type": "InventorySystem.PotionBelt, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "potions": {
+          "$type": "System.Collections.Generic.List`1[[InventorySystem.ItemPotion, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "$values": [
+            {
+              "$type": "InventorySystem.ItemHealthPotion, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "isSuggested": false,
+              "isNew": false,
+              "gCost": 0,
+              "market": false,
+              "uid": null,
+              "dCost": 0,
+              "id": "HEALTH_POTION",
+              "skullLevel": 0,
+              "IndexInList": -1,
+              "_itemName": "HEALTH POTION",
+              "_itemType": 4,
+              "name": null,
+              "healAmount": 0,
+              "sellCost": 0
+            }
+          ]
+        },
+        "healAmount": 0,
+        "level": 1,
+        "skullLevel": 5,
+        "id": "POTION_BELT1",
+        "gCost": 0,
+        "dCost": 9900,
+        "uTime": 4500,
+        "capacity": 1,
+        "description": "POTION BELT"
+      },
+      "bag": {
+        "$type": "InventorySystem.Bag, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "bagItems": {
+          "$type": "System.Collections.Generic.List`1[[InventorySystem.InventoryItem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "$values": [
+            {
+              "$type": "InventorySystem.ItemRune, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "buff": {
+                "$type": "Buff, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "id": "DRAIN",
+                "targetObject": null,
+                "sourceModel": null,
+                "targetModel": null,
+                "buffType": 1,
+                "isPermanent": false,
+                "negatesBuffName": "AMPLIFY",
+                "targetProperty": "damage",
+                "modifierValue": 2,
+                "duration": 6,
+                "description": "Steals 2 damage from the enemy for 6 rounds.",
+                "skullLevel": 1,
+                "totalDuration": 6
+              },
+              "stats": 14,
+              "tag": "W",
+              "isSuggested": false,
+              "isNew": false,
+              "gCost": 0,
+              "market": false,
+              "uid": "English-52143FAB-4F20-35C212O5",
+              "dCost": 1700,
+              "id": "Mark of Drowning",
+              "skullLevel": 1,
+              "IndexInList": 201,
+              "_itemName": "Mark of Drowning",
+              "_itemType": 7,
+              "element": 3,
+              "sellCost": 425
+            }
+          ]
+        },
+        "soulCapacity": 38500,
+        "level": 1,
+        "skullLevel": 6,
+        "id": "BAG1",
+        "gCost": 0,
+        "dCost": 12900,
+        "uTime": 5400,
+        "capacity": 10,
+        "description": "BOTTOMLESS BAG"
+      },
+      "keyRing": {
+        "$type": "InventorySystem.KeyRing, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "level": 1,
+        "skullLevel": 4,
+        "id": "KEY_RING1",
+        "gCost": 0,
+        "dCost": 7500,
+        "uTime": 3600,
+        "capacity": 2,
+        "description": "ARCANE KEYRING",
+        "keyCount": 0
+      },
+      "transmutationCube": {
+        "$type": "InventorySystem.TransmutationCube, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "transmutationLoss": 20,
+        "level": 1,
+        "skullLevel": 6,
+        "id": "T_CUBE1",
+        "gCost": 30,
+        "dCost": 0,
+        "uTime": 5400,
+        "capacity": 2,
+        "description": "TRANSMUTATION CUBE"
+      },
+      "upgradesDictionary": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "CurrentUpgrade": "kNone",
+        "NextBagUpgrade": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "BAG2",
+          "SkullLevel": 12,
+          "uLevel": 2,
+          "Capacity": 15,
+          "uTime": 32400,
+          "Description": "BOTTOMLESS BAG",
+          "dCost": 38500,
+          "maxSoul": 75800
+        },
+        "NextKeyRingUpgrade": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "KEY_RING2",
+          "SkullLevel": 8,
+          "uLevel": 2,
+          "Capacity": 3,
+          "uTime": 7200,
+          "Description": "ARCANE KEYRING",
+          "dCost": 20200
+        },
+        "NextTCubeUpgrade": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "T_CUBE2",
+          "SkullLevel": 12,
+          "uLevel": 2,
+          "Capacity": 3,
+          "uTime": 32400,
+          "Description": "TRANSMUTATION CUBE",
+          "gCost": 95,
+          "tLoss": 25
+        },
+        "NextPotionBeltUpgrade": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "POTION_BELT2",
+          "SkullLevel": 10,
+          "uLevel": 2,
+          "Capacity": 2,
+          "uTime": 9000,
+          "Description": "POTION BELT",
+          "dCost": 28900,
+          "HealAmount": 25
+        },
+        "CurrentBag": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "BAG1",
+          "SkullLevel": 6,
+          "uLevel": 1,
+          "Capacity": 10,
+          "uTime": 5400,
+          "Description": "BOTTOMLESS BAG",
+          "dCost": 12900,
+          "maxSoul": 38500
+        },
+        "CurrentPotionBelt": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "POTION_BELT1",
+          "SkullLevel": 5,
+          "uLevel": 1,
+          "Capacity": 1,
+          "uTime": 4500,
+          "Description": "POTION BELT",
+          "dCost": 9900,
+          "HealAmount": 0
+        },
+        "CurrentKeyRing": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "KEY_RING1",
+          "SkullLevel": 4,
+          "uLevel": 1,
+          "Capacity": 2,
+          "uTime": 3600,
+          "Description": "ARCANE KEYRING",
+          "dCost": 7500
+        },
+        "CurrentTCube": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "T_CUBE1",
+          "SkullLevel": 6,
+          "uLevel": 1,
+          "Capacity": 2,
+          "uTime": 5400,
+          "Description": "TRANSMUTATION CUBE",
+          "gCost": 30,
+          "tLoss": 20
+        },
+        "MaxLevelBag": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "BAG5",
+          "SkullLevel": 30,
+          "uLevel": 5,
+          "Capacity": 50,
+          "uTime": 270000,
+          "Description": "BOTTOMLESS BAG",
+          "dCost": 183600,
+          "maxSoul": 252100
+        },
+        "MaxLevelPotionBelt": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "POTION_BELT5",
+          "SkullLevel": 25,
+          "uLevel": 5,
+          "Capacity": 5,
+          "uTime": 225000,
+          "Description": "POTION BELT",
+          "dCost": 133400,
+          "HealAmount": 100
+        },
+        "MaxLevelKeyRing": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "KEY_RING5",
+          "SkullLevel": 20,
+          "uLevel": 5,
+          "Capacity": 10,
+          "uTime": 54000,
+          "Description": "ARCANE KEYRING",
+          "dCost": 90800
+        },
+        "MaxLevelTCube": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "id": "T_CUBE5",
+          "SkullLevel": 30,
+          "uLevel": 5,
+          "Capacity": 4,
+          "uTime": 270000,
+          "Description": "TRANSMUTATION CUBE",
+          "gCost": 460,
+          "tLoss": 40
+        }
+      },
+      "gems": 50,
+      "souls": 10000,
+      "bagUpgradeProgressDictionary": null,
+      "tCubeUpgradeProgressDictionary": null,
+      "keyRingUpgradeProgressDictionary": null,
+      "pBeltUpgradeProgressDictionary": null
+    },
+    "canTransmute": false,
+    "multiplayerLife": 31,
+    "isSpiritEnabled": false,
+    "spiritId": "",
+    "petUpgradeDictionary": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "CurrentUpgrade": null,
+      "IMP_Current": null,
+      "GOLEM_Current": null,
+      "WISP_Current": null,
+      "DRAKE_Current": null,
+      "IMP_Max": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "id": "IMP5",
+        "uLevel": 5,
+        "SkullLevel": 10,
+        "dCost": 90800,
+        "uTime": 54000,
+        "BuffTime": 4,
+        "Abilities": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "active": "AMPLIFY",
+          "passive": "REGEN",
+          "terrain": ""
+        }
+      },
+      "IMP_Next": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "id": "IMP1",
+        "uLevel": 1,
+        "SkullLevel": 2,
+        "dCost": 7500,
+        "uTime": 3600,
+        "BuffTime": 6,
+        "Abilities": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+          "active": "AMPLIFY",
+          "passive": "",
+          "terrain": ""
+        }
+      },
+      "GOLEM_Next": null,
+      "WISP_Next": null,
+      "DRAKE_Next": null
+    },
+    "totalLife": 31,
+    "life": 31,
+    "damage": 5
+  },
+  "LevelState": {
+    "$type": "LevelState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "levelID": "ToHollowTree",
+    "zoneID": "Beach",
+    "poiIsClearList": {
+      "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "$values": [
+        {
+          "Key": "ToHollowTree_DuelA",
+          "Value": 0
+        },
+        {
+          "Key": "ToHollowTree_ExitA",
+          "Value": 0
+        }
+      ]
+    },
+    "lootList": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "$values": []
+    },
+    "POIEnemyKeyVal": {
+      "$type": "System.Collections.Generic.List`1[[System.Collections.Generic.KeyValuePair`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "$values": [
+        {
+          "Key": "ToHollowTree_DuelA",
+          "Value": "OGRE_WARLOCK"
+        }
+      ]
+    }
+  },
+  "runeProgress": 3,
+  "firstEnemyDefeated": false,
+  "_unlockRunesShown": false,
+  "_unlockSpiritsShown": false,
+  "_unlockUpgradesShown": false,
+  "_unlockTransmutationShown": false,
+  "dayCount": 1,
+  "nexDefeated": 0,
+  "bossAttemptDictionary": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+    "PRIMUS_NEX": 0,
+    "OGRE_WARLORD": 0
+  },
+  "version": 10100,
+  "isMute": false,
+  "musicVolume": 0.5,
+  "gfxVolume": 1,
+  "ringShards": 0,
+  "tutorialStatusDictionary": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+  },
+  "shrineList": {
+    "$type": "System.Collections.Generic.List`1[[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+    "$values": [
+      {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "element": "fire",
+        "isCharged": false,
+        "isLocked": false,
+        "isActivated": false
+      },
+      {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "element": "earth",
+        "isCharged": false,
+        "isLocked": false,
+        "isActivated": false
+      },
+      {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "element": "lightning",
+        "isCharged": false,
+        "isLocked": false,
+        "isActivated": false
+      },
+      {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "element": "water",
+        "isCharged": false,
+        "isLocked": false,
+        "isActivated": false
+      }
+    ]
+  },
+  "DisplayedCutscenes": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+    "$values": []
+  },
+  "skullLevel": 1,
+  "combatsFought": 0,
+  "combatsLost": 0
+}

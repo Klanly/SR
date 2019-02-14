@@ -1,0 +1,1354 @@
+{
+  "cutscenes": [
+    {
+      "name": "Day2",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 2
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "Another one? Were you the one causing all that ruckus earlier?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "...and you would be?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Where are my manners? I'm Hass, demon extraordinaire, reconnaissance expert of the Arcanum Praesul. You're their new guy?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Who else?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Human, I've worked with the Praesul for a while... and you don't even look old enough to be out of the Academy."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I'll manage."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Hark at the child, he'll manage. Ever heard of Ganyas Greybeard? Hikoto the Oni Slayer? Merrin Reaper's Hand?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "The greatest fighting Wizards in the last generation of the Praesul."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "They were. Then they met Nex, and then they were grease and ashes. What are you going to do, alone? What's your plan?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I'm going to destroy Primus Nex, along with everyone else who stands in my way, and take the Sorcerers Ring."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Human?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Yes?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "You're crazy and you're going to die. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I suppose anything is possible, imp."
+        }
+      ]
+    },
+    {
+      "name": "Day3",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 3
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "I saw you die ,human. No mistake. You were dead, sure as day is day. How? "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Another time, little demon. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Another time!? You shake hands with Death and tell him to be on his way, and all you have to say is \"another time\"? What are you?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I am only and ever myself, imp. Now quiet yourself, that I may focus on the task ahead. Nex is stronger than I had thought. This may take some time. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "You're going to go BACK?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Oh, yes. It wouldn't do to keep Nex waiting. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "...yes boss. "
+        }
+      ]
+    },
+    {
+      "name": "Day4",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 4
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Ruh",
+          "dialogue": "Ogres using magic...How can beasts learn the arcane ways? "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "They aren't beasts; where have you been? Look around you. These ogres had a civilization, a culture. Animals couldn't do that. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "And now?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Well...now they have magic. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "... poor trade. There is always a price to magic, and it is always too high. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "How can you say that, boss? It's the stuff of gods! "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "And the gods, little imp, do not suffer theft with grace. "
+        }
+      ]
+    },
+    {
+      "name": "Day5",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 5
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "You aren't really from the Arcanum Praesul, are you?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Why do you ask ?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "None of them can do that trick of...of coming back. You don't talk like them. You don't fight like them. Who are you?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Very well, then: I am an enemy of the Sorcerer's legacy, little demon, an enemy of his folly. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "That's pretty close to blasphemy, isn't it? He was the son of two worlds, the Allfathers punishment to sinners ..."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "There is perhaps no man living or dead, imp, that can equal the Sorcerer in sin. Nex is but his pale shadow. The Sorcerer was neither man nor spirit but an abomination, a curse on both worlds."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "...will you still stop the ritual? "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Whosoever seeks to resurrect Ruhalis' greatest crime, if they aim to throw open a portal never meant to be unbarred, I will stop them; I will end them if I must. Will you oppose me?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "No! Just asking boss, just asking. Don't get upset. I'm not crazy. "
+        }
+      ]
+    },
+    {
+      "name": "Day6",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 6
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Ruh",
+          "dialogue": "You are from the spirit world , little demon, but you don't look very godlike to me. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "So? You're from the world of kings and Sorcerers, aren't you? Men aren't equals , boss, and neither are spirits. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Do you know the gods, then?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "No more than a farmer would know the Emperor. The Gods rule us from Highvale. The rest of us just keep ourselves busy. Take me, fr'instance: travelling the mortal world in this form, giving invaluable insights... "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "How very fortunate for me. "
+        }
+      ]
+    },
+    {
+      "name": "Day7",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 7
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "Nex' ll never give up that ring boss. They say it has a chunk of Ruhalis' soul, his power. And the portal can't be opened by any magic short of Sorcery. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "The dark ritual."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Hass You got it. A doorway to the spirit world. Dipping your hand into the power of the gods. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Damned fool. The ritual has never been successfully performed. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Well...it worked at least once, boss. The Sorcerer. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "The Sorcerer. So they say. And Jerazul died. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Who was Jerazul?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Not who. What. A country. A magical kingdom more powerful and prosperous than any before or since. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "I heard that there was a kingdom of old, with wizards stronger than any alive. But they had grown proud and foolish, and the wrath of the sorcerer brought them low. Right? "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "The only pride, little demon, and the only fool that I know of in ancient Jerazul was the sorcerer himself. "
+        }
+      ]
+    },
+    {
+      "name": "Day8",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 8
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Ruh",
+          "dialogue": "Tell me true, o Imp of the Spirit World: does the Allfather rule Highvale no longer? "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "...you're an impressive wizard, boss, but how in the Nine Infernos could you know that? "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "My ways are my own, Hass. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Sometimes I think you're mysterious on purpose just to frustrate me. You're right though the Allfather was overthrown by a group of the other gods. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "  Why? Over what?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Oh, yes, I'm positive that I'll be getting an invite to the inner circle of divine conspiracies any day now. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Imp..."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Sorry, sorry. But I don't know, boss. This kind of thing hasn't happened in eons-spirits live a long time and gods even longer-but its not the only time its ever happened. Whatever it was, it must have been something that made them furious. "
+        }
+      ]
+    },
+    {
+      "name": "Day9",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 9
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Ruh",
+          "dialogue": "How old are you, demonling?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "I'm a couple hundred years old, boss, just a stripling by Spirit standards. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Why then do you have the manner of a twelve year old?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "First of all, I am rubber, you are glue. Second of all, the Spirit world is...thin in experiences, if you see what I mean. We live nearly forever and we live hardly at all. How old are you?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Too old to be merry, Hass, and too young to be wise.  "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "...good talk, boss. "
+        }
+      ]
+    },
+    {
+      "name": "Day10",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 10
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "OK boss, I'll admit it: I've got no idea what's going on here. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Shocking. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "I mean, I've seen wizards my whole life, right? Powerful ones too. But Nex is a nightmare. And, not meaning any offense or anything, you might be worse. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "How so?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Because mortals get a whole lot done and an unbelievable amount of power in their, no offense, very short lives. And then they die. But you two? You get stronger and stronger. You don't end.  Mortals are impressive. But mortals who spit in the face of the Reaper?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Is that so frightening to spirits, Hass?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Boss, there is nothing, nothing, that frightens our kind more."
+        }
+      ]
+    },
+    {
+      "name": "Day11",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 11
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "Boss...we need to go. You need to finish whatever you've set out to do, or give up, or get someone else to  do it but we need to GO. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Nervous, little demon? Spirits cannot be destroyed in this realm, surely. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Not something I wanna test. There's something here, boss, something very bad. And I'm not talking about Nex. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Oh yes?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "It's...very old, and very strong and very...very..."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Angry?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "That word doesn't really... if anger is a drop, boss, and fury two drops, this thing is...the ocean. It frightens me, even here. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I know, Hass. I feel it too. Do not fear, little demon. If it comes to that, I will protect you. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "From what, boss? The heavens above us? The land beneath us? The sea around us? It feels as big and old as all of them.   "
+        }
+      ]
+    },
+    {
+      "name": "Day12",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 12
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Ruh",
+          "dialogue": "That ship..."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "More agents of the Praesul, boss. And other conclaves as well. That ship made it further than most. The others are at the bottom of the sea somewhere."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Like lambs to the slaughterhouse. A waste."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Yeah, Nex got tired of swatting wizards like they were flies, and took some time out of his murder schedule to create a constant riptide and lightning storm around the Island."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "And yet they tried. Brave. Foolish. No one made it through?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Well...nobody but you, boss. How'd you do it?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": ":I have my ways, little demon. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Y'know, I knew you were going to say that?"
+        }
+      ]
+    },
+    {
+      "name": "Day13",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 13
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Ruh",
+          "dialogue": "How fare the conclaves, Hass?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Well, I don't know about the smaller ones, boss, but the Eight Arcanum? Not so great. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Nex. They fear him. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Do you blame them? And it's worse than fear. They don't know what the point is anymore. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "They were proud. They thought themselves powerful."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Right. And then one man came and tore through the strongest Arcanum like it was damp paper. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": ":Perhaps it is time for a new Arcanum. To replace the one that was shattered."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "You and me and what army boss?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "When I build it, little imp, they will come."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "l...you know, somehow, I believe you."
+        }
+      ]
+    },
+    {
+      "name": "Day14",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 14
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "Hey, boss, you know the new Arcanum we're about to build?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "“We”. Yes?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Wouldn't “Arcanum Hassium” be a great name?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "..."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Joking, boss, joking. I thought...”Arcanum Ruhalis”. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "No. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Hear me out. I know you don't like the guy. But people all over the world revere that name. They name their children after him. And they're terrified. They think Nex has stolen his legacy, his power. We can reclaim the name."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "...redeem it. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Yes! Who cares what he did? What matters now is what people remember. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "He ill deserves it. But very well imp. The Arcanum Ruhalis it shall be."
+        }
+      ]
+    },
+    {
+      "name": "Day15",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 15
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "One thing I don't understand boss..."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "“One thing”. Go on."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "The Arcanum Praesul never used their greatest weapon, not even when Nex was tearing them apart. They never used the Sorcerer's Ring."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "No wizard at the Praesul could have used its true power. They kept it for the prestige it gave them, and to keep it out of other hands. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "And then Nex comes along, takes the Ring and unlocks all its power. Great. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "What makes you think he has unlocked all its power?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "...Thanks boss. I didn't need to sleep tonight anyway. "
+        }
+      ]
+    },
+    {
+      "name": "Day16",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 16
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "Normally I make a point of staying out of harm's way, boss. I'm a lover and a thinker, not a fighter."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Naturally. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "I can't fight, not exactly, but you sure can. I can help you. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "How? Few spirits can manipulate the material world. Isn't that why you were a spy?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Reconnaissance specialist, boss.  And yes, usually. But if we find a powerful enough magical soul as an anchor we can channel our own abilities to help in combat. And I want to help. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I'm...thank you, Hass."
+        }
+      ]
+    },
+    {
+      "name": "Day17",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 17
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Ruh",
+          "dialogue": "I've rarely seen so many magical shrines in one place."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "They're like little tears in the Veil, boss, and a, a lens of sort. They distill pure magic into artifacts. I don't know if your side built them or ours, but they're indestructible. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "So many tears in the Veil, on one small island?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "I guess this place is blessed by the gods, eh?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "...Indeed."
+        }
+      ]
+    },
+    {
+      "name": "Day18",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 18
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Ruh",
+          "dialogue": "The gods rule the spirit world from Solius Dei, you said."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Sure do."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Undisputed? What of the Fiends?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "The Nine Circles? Oh, you don't want to go there boss. My old neighborhood. Highvale and the Circles leave each other alone, always giving each other funny looks but...they don't want a war. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Tell me of your...relatives. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Well, Elder Fiends are incredibly powerful, manipulative, prickly when it comes to pride and homicidally protective of what they think is theirs, which is everything."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Nothing at all like the gods, then. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "I...you...did you just make an actual, real joke?"
+        }
+      ]
+    },
+    {
+      "name": "Day19",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 19
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "Have to admit you were right, boss. You built it, and they came. Arcanum Ruhalis. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "So it seems, Hass."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Just...there are a LOT of them. Wizards the world over and forming guilds and swearing allegiance to your banner. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "“Us and what army”, I believe you asked. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "This...is a pretty big army. Who are we fighting?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Corrupted pretenders and dark spirits. Monsters and legends. The fiends below, present company excepted, and if need be the gods above. Everyone who threatens this world. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Well...all right then!"
+        }
+      ]
+    },
+    {
+      "name": "Day20",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 20
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "Boss, when you beat Nex, I can sense something...powerful on you. Did you get the Ring?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Merely a shard of its power. Nex may not even notice it. But it will open new paths for me. For now, it shall suffice."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "But it's not enough to stop the Dark Ritual?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "The Ring was cunningly constructed. It will not waver in strength till every drop has been drained."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Boss that's...completely impossible."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Yes. As I said, cunningly constructed."
+        }
+      ]
+    },
+    {
+      "name": "Day21",
+      "place": "BeachHass",
+      "priority": 1,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "day",
+              "condition": "greaterThanOrEqualTo",
+              "value": 21
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Hass",
+          "dialogue": "Holy...my...you...you're him. Ruhalis! The Sorcerer Returned! "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": ": ...yes, little Imp. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Infernal Circles, you're alive?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I wish it were otherwise. I murdered all Jerazul because I once opened a gate never meant to be opened. Now I have failed to keep it from being opened again. With my first act, I provoked the Gods near to war. With my second, I have guaranteed it. I am the doom of mortals. "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Boss that's...that's crazy."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "...what?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "I'm only a small spirit, a little imp as you keep calling me, but I know the history from the other side, right? You defeated the Guardian of the Gates, and sealed him here. A mortal took down a God! "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "At the cost of thousands of lives, imp! This was my home, and look at it now. I became at a stroke the worst enemy this world had ever seen. An abomination! "
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "NO! Boss, our rulers call themselves Gods but only the Highfather could create life. He created mortals with the capacity for great magic. And maybe that's why he was overthrown, because I know he didn't create the Veil. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "You're saying the Veil..."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Isn't natural! It wasn't part of the plan! Boss, I never cared about this before but seeing you fight...you're not an abomination, you're not out of control, you're what mortals were meant to be. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Then why the Veil?"
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Because they're terrified of you, boss, and what you represent. The infinite drive of mortals, along with the true power of the Source? You should have been the one to bring in a golden age for mortals."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "..."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "But they beat you, boss. They couldn't beat you with strength so they beat you with lies and fear. The Guardian overloaded you with the Source, power that you hadn't learned to control, and you wiped out Jerazul. He killed those people, not you. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "No..."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "Yes! You should've been the leader of humanity. But they turned you into a watcher, alone, hating yourself all these centuries, afraid to use your power. You made a Ring to seal it in! Boss, you've been running around trying to stop anyone from piercing the Veil. You almost gotta admire them. They turned their greatest threat into their new Guardian."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Hass...I don't know what to do."
+        },
+        {
+          "actor": "Hass",
+          "dialogue": "It's up to you boss. Spend another thousand years brooding? Or get going and get even?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "...I was wrong to call you little, Hass. You are a giant among spirits."
+        }
+      ]
+    },
+    {
+      "name": "Nex1",
+      "place": "BeachNex",
+      "priority": 2,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "nexDefeated",
+              "condition": "greaterThanOrEqualTo",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Nex",
+          "dialogue": "Who are you? You, too, return from the void when slain. You sense my presence, even here. You have defeated my base power. Who are you, who dares war against Primus Nex?!"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "One who has long been content to be a watcher in solitude, Nex. But no more. You have forced my hand, though I have no interest in war. Return the Sorcerer's Ring."
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "The eternal arrogance of the Arcanum Praesul. You, too, lay claims to the legacy of the Sorcerer?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I do. "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "Come to me then, o impudent wizard who speaks so boldly, and be ground to blackened ash. You shall not return again. "
+        }
+      ]
+    },
+    {
+      "name": "Nex2",
+      "place": "BeachNex",
+      "priority": 2,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "nexDefeated",
+              "condition": "greaterThanOrEqualTo",
+              "value": 2
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Nex",
+          "dialogue": "Have a care, wizard. Thus far, you have earned only my interest. Do not incur my wrath. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I neither care for your wrath nor desire it, Primus. "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "The lamb may not fear the lion, boy, but it says nothing good about the lamb."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "My interest is only in the Ring. Return it. You cannot wield its power. "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "If the power could not be wielded, foolish child, the Ring would not exist. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "You are not the Sorcerer."
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "Impudent wizard. I am the closest thing to the Sorcerer that still walks this Earth."
+        }
+      ]
+    },
+    {
+      "name": "Nex3",
+      "place": "BeachNex",
+      "priority": 2,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "nexDefeated",
+              "condition": "greaterThanOrEqualTo",
+              "value": 3
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Nex",
+          "dialogue": "Do you hear them, child? No one else can, but perhaps you have the gift."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Yes. "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "The whole Island whispers to me, wizard. The sky above us and the sea around us and the earth beneath. They know I am destined to succeed, to be master above all. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I hear the whispers, Nex. I pay them no heed. Nor should you. "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "Foolish child. The land itself sings my destiny. I am the Sorcerer Reborn! "
+        }
+      ]
+    },
+    {
+      "name": "Nex4",
+      "place": "BeachNex",
+      "priority": 2,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "nexDefeated",
+              "condition": "greaterThanOrEqualTo",
+              "value": 4
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Nex",
+          "dialogue": "You shall never have the Ring, o wizard! It is mine by right of conquest. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Then by conquest you shall lose it."
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "You cannot comprehend the forces that empower me. Foolish mortal, I am on the cusp of Godhood!"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Is that what the whispers say? "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "I have been chosen by the fates to supplant the gods themselves! "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Foolish. You have been chosen not to succeed the gods but to be their pawn. Leave this madness. "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "Words, mere words."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Words have power. Words can raise fools and fell the mighty. The sweeter they are, Primus, the more poison they can conceal. Beware. "
+        }
+      ]
+    },
+    {
+      "name": "Nex5",
+      "place": "BeachNex",
+      "priority": 2,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "nexDefeated",
+              "condition": "greaterThanOrEqualTo",
+              "value": 5
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Nex",
+          "dialogue": "Your power has impressed even Primus Nex, wizard. But even for one such as you, fighting me is fruitless. I am immortal. Give up this insane mission, and ally with me. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Our goals do not align, Primus. "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "Our goals? My goal is to be a God-King, ruling a utopia.  To be a Shepard for a new and greater humanity. What is your goal, you who have fought me with the drive of a madman and the skill of an archmage?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "My goal is the power that the Sorcerer's Ring can unlock."
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "So we are not so different."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "No. I want that power sealed forever behind the veil, and the Ring destroyed."
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "Your mind has been poisoned by the conclaves, which imprison magic rather than empower it. They deny all mankind its destiny. How easily did I defeat the Arcanum Praesul? The fools thought magic a candle, when it should be the noonday sun."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I prefer the sun at a distance, Primus."
+        }
+      ]
+    },
+    {
+      "name": "Nex6",
+      "place": "BeachNex",
+      "priority": 2,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "nexDefeated",
+              "condition": "greaterThanOrEqualTo",
+              "value": 6
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Nex",
+          "dialogue": "What drives you to such insane lengths wizard? You are plainly no agent of the Praesul or of any other conclave. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "It matters little enough. "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "You are driven neither by loyalty, nor powerlust, nor thirst for my blood. And yet you dash yourself against my immortal power like waves against a mountain, again and again. "
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Mountains weaken Primus. In time, they even crumble. "
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "Are you a pawn of the gods sent to safeguard their monopoly on power? A madman who has stumbled upon some ancient strength and fights for fighting's sake? A villain set upon denying humanity my glorious future?"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "I am a man, and something less, and something more. A man who wants humanity to have a future, any future at all."
+        }
+      ]
+    },
+    {
+      "name": "Nex7",
+      "place": "BeachNex",
+      "priority": 2,
+      "triggers": [
+        {
+          "constraints": [
+            {
+              "parameter": "nexDefeated",
+              "condition": "greaterThanOrEqualTo",
+              "value": 7
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "actor": "Nex",
+          "dialogue": "...it cannot be...you are..."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Your absurd pride has cost us more than you know. You have reopened a gaping wound in the world, and invited the wrath of the gods. Will you fight me Primus? Now, when you have repeated my greatest folly? Here, on the ashes of ancient Jerazul?"
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "...no..."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Do you know who I am, O Primus Nex?"
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "...you are the veil tearer and the world breaker. You are the lightning in the rain and the flame in the forest. You are the strength of the earth and the depth of the ocean. You are Ruhalis, the Sorcerer returned."
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Terminus, the God of Gates has arisen. I have no more time to waste on you. Now, Nex. Return unto the Sorcerer, the Sorcerer's Ring."
+        },
+        {
+          "actor": "Nex",
+          "dialogue": "*screaming*"
+        },
+        {
+          "actor": "Ruh",
+          "dialogue": "Nex? ...damn it. He is here."
+        }
+      ]
+    }
+  ]
+}

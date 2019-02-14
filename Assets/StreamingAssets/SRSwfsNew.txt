@@ -1,0 +1,142 @@
+{
+    "GameUI": {
+        "url": "GameUI.swf",
+        "size": "10844099"
+    },
+    "equipment2": {
+        "url": "equipment2.swf",
+        "size": "947396"
+    },
+    "level1.1_v2": {
+        "url": "level1.1_v2.swf",
+        "size": "608305"
+    },
+    "in_game_ui_v2": {
+        "url": "in_game_ui_v2.swf",
+        "size": "1060151"
+    },
+    "Market": {
+        "url": "Market.swf",
+        "size": "908747"
+    },
+    "NewTutorial": {
+        "url": "NewTutorial.swf",
+        "size": "808054"
+    },
+    "OptionTutorial": {
+        "url": "OptionTutorial.swf",
+        "size": "567820"
+    },
+    "Raidsinterface": {
+        "url": "Raidsinterface.swf",
+        "size": "270527"
+    },
+    "staff": {
+        "url": "staff.swf",
+        "size": "690642"
+    },
+    "Title": {
+        "url": "Title.swf",
+        "size": "613227"
+    },
+    "transmute": {
+        "url": "transmute.swf",
+        "size": "1031901"
+    },
+    "TutorialNew": {
+        "url": "TutorialNew.swf",
+        "size": "786315"
+    },
+    "upgrades": {
+        "url": "upgrades.swf",
+        "size": "1660118"
+    },
+    "credits": {
+        "url": "credits.swf",
+        "size": "39711"
+    },
+    "LevelTutorial3x2": {
+        "url": "UITutorial3x2/LevelTutorial.swf",
+        "size": "816433"
+    },
+    "KeyTutorial3x2": {
+        "url": "UITutorial3x2/KeyTutorial.swf",
+        "size": "816430"
+    },
+    "PotionTutorial3x2": {
+        "url": "UITutorial3x2/PotionTutorial.swf",
+        "size": "816488"
+    },
+    "RingTutorial3x2": {
+        "url": "UITutorial3x2/RingTutorial.swf",
+        "size": "816431"
+    },
+    "RuneTutorial3x2": {
+        "url": "UITutorial3x2/RuneTutorial.swf",
+        "size": "829831"
+    },
+    "TransmutationTutorial3x2": {
+        "url": "UITutorial3x2/TransmutationTutorial.swf",
+        "size": "816429"
+    },
+    "UpgradeTutorial3x2": {
+        "url": "UITutorial3x2/UpgradeTutorial.swf",
+        "size": "998969"
+    },
+    "LevelTutorial4x3": {
+        "url": "UITutorial4x3/LevelTutorial.swf",
+        "size": "861521"
+    },
+    "KeyTutorial4x3": {
+        "url": "UITutorial4x3/KeyTutorial.swf",
+        "size": "848728"
+    },
+    "PotionTutorial4x3": {
+        "url": "UITutorial4x3/PotionTutorial.swf",
+        "size": "861514"
+    },
+    "RingTutorial4x3": {
+        "url": "UITutorial4x3/RingTutorial.swf",
+        "size": "861516"
+    },
+    "RuneTutorial4x3": {
+        "url": "UITutorial4x3/RuneTutorial.swf",
+        "size": "861516"
+    },
+    "TransmutationTutorial4x3": {
+        "url": "UITutorial4x3/TransmutationTutorial.swf",
+        "size": "861515"
+    },
+    "UpgradeTutorial4x3": {
+        "url": "UITutorial4x3/UpgradeTutorial.swf",
+        "size": "1050951"
+    },
+    "LevelTutorial16x9": {
+        "url": "UITutorial16x9/LevelTutorial.swf",
+        "size": "867522"
+    },
+    "KeyTutorial16x9": {
+        "url": "UITutorial16x9/KeyTutorial.swf",
+        "size": "854048"
+    },
+    "PotionTutorial16x9": {
+        "url": "UITutorial16x9/PotionTutorial.swf",
+        "size": "867518"
+    },
+    "RingTutorial16x9": {
+        "url": "UITutorial16x9/RingTutorial.swf",
+        "size": "867508"
+    },
+    "RuneTutorial16x9": {
+        "url": "UITutorial16x9/RuneTutorial.swf",
+        "size": "867508"
+    },
+    "TransmutationTutorial16x9": {
+        "url": "UITutorial16x9/TransmutationTutorial.swf",
+        "size": "867518"
+    },
+    "UpgradeTutorial16x9": {
+        "url": "UITutorial16x9/UpgradeTutorial.swf",
+        "size": "1039474"
+    }
+}

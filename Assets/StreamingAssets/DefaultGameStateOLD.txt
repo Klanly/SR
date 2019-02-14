@@ -1,0 +1,340 @@
+{
+   "User":{
+   	"username":"",
+	"modelName":"",
+      "Inventory":{
+         "Bag Items":[
+            {
+               "Type":"Rune",
+               "dCost":1700,
+               "Rune Name":"Mark of Drowning",
+               "Index":201,
+               "uid":"English-52143FAB-4F20-35C212O5",
+               "itemId":"Mark of Drowning1",
+               "Tag":"w",
+               "Stats":14,
+               "SkullLevel":1,
+               "Spell Name":"DRAIN",
+               "Element":"Water",
+               "gCost":0,
+               "SpellDetail":{
+                  "Spell Name":"DRAIN",
+                  "SkullLevel":1,
+                  "DeltaStat":2,
+                  "Rounds":6,
+                  "Stat":"damage",
+                  "Target":"ENEMY",
+                  "IsTick":"0"
+               },
+               "sellCost":425
+            }
+         ],
+         "Equipped Rings":[
+            {
+               "Type":"Ring",
+               "dCost":1200,
+               "uid":"English-52143FAB-4F20-35C212O6",
+               "itemId":"Healing Band1",
+               "RingName":"Healing Band",
+               "SkullLevel":1,
+               "Stats":11,
+               "Tag":"H",
+               "Fire":"0",
+               "Lightning":"0",
+               "Water":"0",
+               "Earth":"0",
+               "Wards":"0",
+               "Life":"11",
+               "gCost":0,
+               "Index":51,
+               "Damage":0,
+               "sellCost":300
+            },
+            {
+           	   "Type":"Ring",
+               "RingType":"ELEMENT",
+               "uid":"English-52143FAB-4F20-35C21214",
+               "RingName":"Aquata",
+               "SkullLevel":2,
+               "Stats":22,
+               "Tag":"W",
+               "Fire":"0",
+               "Lightning":"0",
+               "Water":"1",
+               "Earth":"0",
+               "Wards":0,
+               "Life-Damage":2,
+               "Life":0,
+               "Damage":0,
+               "dCost":3300,
+               "gCost":0
+            }
+         ],
+         "Staff":[
+	         {
+                    "Type": "Rune",
+                    "dCost": 1700,
+                    "Rune Name": "Burning Mark",
+                    "Index": 57,
+                    "uid": "8c5fc0cb-ba08-4d5c-a0e8-f951b91d4003",
+                    "itemId": "Burning Mark1",
+                    "Tag": "F",
+                    "Stats": 14,
+                    "SkullLevel": 1,
+                    "Spell Name": "IGNITE",
+                    "Element": "Fire",
+                    "gCost": 0,
+                    "SpellDetail": {
+                        "Spell Name": "IGNITE",
+                        "SkullLevel": 1,
+                        "DeltaStat": -5,
+                        "Rounds": 6,
+                        "Stat": "life",
+                        "Target": "ENEMY",
+                        "IsTick": "1",
+                        "Negates": "REGEN"
+                    },
+                    "sellCost": 425
+                }
+         ],
+         "Souls":10000,
+         "Gems":50,
+         "BAG":"BAG1",
+         "KEY_RING":"KEY_RING1",
+         "Potion Belt":"POTION_BELT1",
+         "T_CUBE":"T_CUBE1",
+         "Upgrades":{
+            "CurrentUpgrade":"kNone",
+            "NextBagUpgrade":{
+               "id":"BAG2",
+               "SkullLevel":12,
+               "uLevel":2,
+               "Capacity":15,
+               "uTime":32400,
+               "Description":"BOTTOMLESS BAG",
+               "dCost":38500,
+               "maxDust":75800
+            },
+            "NextKeyRingUpgrade":{
+               "id":"KEY_RING2",
+               "SkullLevel":8,
+               "uLevel":2,
+               "Capacity":3,
+               "uTime":7200,
+               "Description":"ARCANE KEYRING",
+               "dCost":20200
+            },
+            "NextTCubeUpgrade":{
+               "id":"T_CUBE2",
+               "SkullLevel":12,
+               "uLevel":2,
+               "Capacity":3,
+               "uTime":32400,
+               "Description":"TRANSMUTATION CUBE",
+               "gCost":95,
+               "tLoss":25
+            },
+            "NextPotionBeltUpgrade":{
+               "id":"POTION_BELT2",
+               "SkullLevel":10,
+               "uLevel":2,
+               "Capacity":2,
+               "uTime":9000,
+               "Description":"POTION BELT",
+               "dCost":28900,
+               "HealAmount":25
+            },
+            "CurrentBag":{
+               "id":"BAG1",
+               "SkullLevel":6,
+               "uLevel":1,
+               "Capacity":10,
+               "uTime":5400,
+               "Description":"BOTTOMLESS BAG",
+               "dCost":12900,
+               "maxDust":24400
+            },
+            "CurrentPotionBelt":{
+               "id":"POTION_BELT1",
+               "SkullLevel":5,
+               "uLevel":1,
+               "Capacity":1,
+               "uTime":4500,
+               "Description":"POTION BELT",
+               "dCost":9900,
+               "HealAmount":0
+            },
+            "CurrentKeyRing":{
+               "id":"KEY_RING1",
+               "SkullLevel":4,
+               "uLevel":1,
+               "Capacity":2,
+               "uTime":3600,
+               "Description":"ARCANE KEYRING",
+               "dCost":7500
+            },
+            "CurrentTCube":{
+               "id":"T_CUBE1",
+               "SkullLevel":6,
+               "uLevel":1,
+               "Capacity":2,
+               "uTime":5400,
+               "Description":"TRANSMUTATION CUBE",
+               "gCost":30,
+               "tLoss":20
+            },
+            "MaxLevelBag":{
+               "id":"BAG5",
+               "SkullLevel":30,
+               "uLevel":5,
+               "Capacity":50,
+               "uTime":270000,
+               "Description":"BOTTOMLESS BAG",
+               "dCost":183600,
+               "maxDust":239900
+            },
+            "MaxLevelPotionBelt":{
+               "id":"POTION_BELT5",
+               "SkullLevel":25,
+               "uLevel":5,
+               "Capacity":5,
+               "uTime":225000,
+               "Description":"POTION BELT",
+               "dCost":133400,
+               "HealAmount":100
+            },
+            "MaxLevelKeyRing":{
+               "id":"KEY_RING5",
+               "SkullLevel":20,
+               "uLevel":5,
+               "Capacity":10,
+               "uTime":54000,
+               "Description":"ARCANE KEYRING",
+               "dCost":90800
+            },
+            "MaxLevelTCube":{
+               "id":"T_CUBE5",
+               "SkullLevel":30,
+               "uLevel":5,
+               "Capacity":4,
+               "uTime":270000,
+               "Description":"TRANSMUTATION CUBE",
+               "gCost":460,
+               "tLoss":40
+            }
+         },
+         "key_count":0,
+         "Potions":[
+            "HEALTH_POTION"
+         ]
+      },
+      "life":20,
+      "SPIRIT":"",
+      "availablePets":[
+
+      ],
+      "currentLife":31,
+      "multiplayerLife":31,
+      "damage":5,
+      "arcanePoints":100,
+      "wards":"0",
+      "PetUpgrade":{
+         "CurrentUpgrade":null,
+         "IMP_Current":null,
+         "GOLEM_Current":null,
+         "WISP_Current":null,
+         "DRAKE_Current":null,
+         "IMP_Next":{
+            "id":"IMP1",
+            "uLevel":1,
+            "SkullLevel":4,
+            "dCost":7500,
+            "uTime":3600,
+            "BuffTime":6,
+            "Ability":"AMPLIFY",
+            "aType":"Active"
+         },
+         "GOLEM_Next":null,
+         "WISP_Next":null,
+         "DRAKE_Next":null
+      },
+      "TransmutationProgress":{
+         "BaseItems":[
+
+         ],
+         "slots":2
+      }
+   },
+   "Level":{
+      "LevelID":"ToHollowTree",
+      "ZoneID":"Beach",
+      "PoiList":[
+         {
+            "poi_id":"ToHollowTree_DuelA",
+            "isCleared":0
+         },
+         {
+            "poi_id":"ToHollowTree_ExitA",
+            "isCleared":0
+         }
+      ],
+      "LootList":[
+
+      ],
+      "EnemyList":[
+         {
+            "poi_id":"ToHollowTree_DuelA",
+            "enemyName":"OGRE_WARLOCK"
+         }
+      ]
+   },
+   "ShrineList":[
+      {
+         "element":"fire",
+         "isCharged":false,
+         "isLocked":false,
+         "isActivated":false
+      },
+      {
+         "element":"earth",
+         "isCharged":false,
+         "isLocked":false,
+         "isActivated":false
+      },
+      {
+         "element":"lightning",
+         "isCharged":false,
+         "isLocked":false,
+         "isActivated":false
+      },
+      {
+         "element":"water",
+         "isCharged":false,
+         "isLocked":false,
+         "isActivated":false
+      }
+   ],
+   "TutorialStatus":{
+
+   },
+   "skull_level":1,
+   "combatsFought":0,
+   "combatsLost":0,
+   "day_count":1,
+   "nex_defeated":0,
+   "FirstEnemyDefeated":false,
+   "Mute":false,
+   "Music_Volume":0.5,
+   "GFX_Volume":1,
+   "BossAttempts":{
+      "PRIMUS_NEX":0,
+      "OGRE_WARLORD":0
+   },
+   "_unlockRunesShown":false,
+   "_unlockUpgradesShown":false,
+   "_unlockSpiritsShown":false,
+   "_unlockTransmutationShown":false,
+   "RingShards":0,
+   "runeProgress": 3,
+   "version":5
+}
