@@ -1,0 +1,51 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public static class RaidConstants
+{
+    public const string RM_PORTAL_ID = "portalId";
+    public const string RM_NAME = "name";
+    public const string RM_MODEL_NAME = "modelName";
+    public const string RM_ARENA_NAME = "arenaName";
+	public const string RM_ENABLED = "enabled";
+	public const string RM_TITLE = "title";
+	public const string RM_INTRODUCTION = "introduction";
+	public const string RM_SKULL_LEVEL = "skullLevel";
+    public const string RM_SPEED = "speed";
+    public const string RM_RACE = "race";
+    public const string RM_ELEMENT = "element";
+    public const string RM_SPELL_1 = "spell1";
+    public const string RM_SPELL_2 = "spell2";
+    public const string RM_SPELL_3 = "spell3";
+    public const string RM_BUFF_TIME = "buffTime";
+    public const string RM_LIFE = "life";
+    public const string RM_DAMAGE = "damage";
+    public const string RM_HITS_TO_STUN = "hitsToStun";
+    public const string RM_LIFE_TO_STUN = "lifeToStun";
+    public const string RM_FIRE = "fire";
+    public const string RM_WATER = "water";
+    public const string RM_EARTH = "earth";
+    public const string RM_LIGHTNING = "lightning";
+    public const string RM_MAX_LIFE = "maxLife";
+    public const string RM_CURRENT_LIFE = "currentLife";
+    public const string RM_ENABLE_TIME = "enableTime";
+    public const string RM_DISABLE_TIME = "disableTime";
+    public const string RM_RESET_TIME = "resetTime";
+    public const string RM_TIME_SECONDS = "seconds";
+    public const string RM_TIME_MINUTES = "minutes";
+    public const string RM_TIME_HOURS = "hours";
+    public const string RM_TIME_DAY_OF_MONTH = "dayOfMonth";
+    public const string RM_TIME_MONTH = "month";
+    public const string RM_TIME_DAY_OF_WEEK = "dayOfWeek";
+    public const string RM_TIME_YEAR = "year";
+    public const string RM_LEADERBOARD = "leaderboard";
+    public const string RM_CAN_LOOT = "canLoot";
+    public const string RM_START_TIME_TS = "startTimeTS";
+    public const string RM_END_TIME_TS = "endTimeTS";
+    public const string RM_NEXT_ENABLE_TIME_TS = "nextEnableTime";
+    public const string RM_USER_DAMAGE = "userDamage";
+    public const string RM_IS_ACTIVE = "active";
+    public const string RM_NUMBER_RAIDERS = "raiderCount";
+    public const string RM_REWARD = "reward";
+    public const string RM_GEMS = "gems";
+}
