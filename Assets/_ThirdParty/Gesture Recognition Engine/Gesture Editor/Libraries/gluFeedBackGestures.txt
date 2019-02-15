@@ -1,0 +1,4 @@
+Water:4,41
+Fire:3,32
+Lightning:1,13,31
+Earth:2,42

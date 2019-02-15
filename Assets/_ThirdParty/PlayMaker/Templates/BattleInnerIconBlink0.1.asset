@@ -1,0 +1,308 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1219815696, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: BattleInnerIconBlink0.1
+  m_EditorClassIdentifier: 
+  category: General
+  fsm:
+    usedInTemplate: {fileID: 11400000}
+    owner: {fileID: 0}
+    name: FSM
+    startState: Animate
+    states:
+    - name: Animate
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 414.257812
+        y: 414.890625
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: State 1
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.AnimateColor
+        - GetMaterial
+        - HutongGames.PlayMaker.Actions.SetMaterialColor
+        customNames:
+        - 
+        - 
+        - 
+        actionEnabled: 010101
+        actionIsOpen: 010101
+        actionStartIndex: 000000000f00000013000000
+        actionHashCodes: 26bfea7d87f2eede3ff43992
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams:
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        animationCurveParams:
+        - curve:
+            serializedVersion: 2
+            m_Curve:
+            - time: 0
+              value: .998497605
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 0
+            - time: 1
+              value: .998497605
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 0
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+        - curve:
+            serializedVersion: 2
+            m_Curve:
+            - time: 0
+              value: .0722242668
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 0
+            - time: 1
+              value: .0722242668
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 0
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+        - curve:
+            serializedVersion: 2
+            m_Curve:
+            - time: 0
+              value: -.00446604704
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 0
+            - time: 1
+              value: -.00446604704
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 0
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+        - curve:
+            serializedVersion: 2
+            m_Curve:
+            - time: .00154670305
+              value: .113044329
+              inSlope: .89398396
+              outSlope: .89398396
+              tangentMode: 10
+            - time: .208600506
+              value: .298147112
+              inSlope: 1.61778951
+              outSlope: 1.61778951
+              tangentMode: 10
+            - time: .508333325
+              value: 1
+              inSlope: .0221469402
+              outSlope: .0221469402
+              tangentMode: 10
+            - time: .813005328
+              value: .300076574
+              inSlope: -1.71736121
+              outSlope: -1.71736121
+              tangentMode: 10
+            - time: 1.00285852
+              value: .0841335729
+              inSlope: -1.13742101
+              outSlope: -1.13742101
+              tangentMode: 10
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: _Color
+        fsmObjectParams:
+        - useVariable: 1
+          name: mat
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          typeName: UnityEngine.Object
+          value: {fileID: 0}
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          typeName: 
+          value: {fileID: 0}
+        fsmVarParams: []
+        arrayParamSizes: 
+        arrayParamTypes: []
+        byteData: 0000000000000000000000000000803f01636c72010000000100000001000000010000000000803f000000803f000000000001010046494e49534845440100000000000000000000000000000000000000000000000000803f01636c7201
+        paramDataType: 1900000016000000070000001600000007000000160000000700000016000000070000000f0000000f0000000f00000011000000170000000100000014000000100000002000000001000000140000001000000020000000120000001900000001000000
+        paramName:
+        - colorVariable
+        - curveR
+        - calculationR
+        - curveG
+        - calculationG
+        - curveB
+        - calculationB
+        - curveA
+        - calculationA
+        - time
+        - speed
+        - delay
+        - ignoreCurveOffset
+        - finishEvent
+        - realTime
+        - gameObject
+        - materialIndex
+        - material
+        - getSharedMaterial
+        - gameObject
+        - materialIndex
+        - material
+        - namedColor
+        - color
+        - everyFrame
+        paramDataPos: 0000000000000000140000000100000018000000020000001c000000030000002000000024000000290000002e00000033000000350000003d000000000000003e000000000000004300000001000000440000000100000000000000490000005d000000
+        paramByteDataSize: 14000000000000000400000000000000040000000000000004000000000000000400000005000000050000000500000002000000080000000100000000000000050000000000000001000000000000000500000000000000000000001400000001000000
+    - name: State 1
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 618
+        y: 418
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: Animate
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames: []
+        customNames: []
+        actionEnabled: 
+        actionIsOpen: 
+        actionStartIndex: 
+        actionHashCodes: 
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        arrayParamSizes: 
+        arrayParamTypes: []
+        byteData: 
+        paramDataType: 
+        paramName: []
+        paramDataPos: 
+        paramByteDataSize: 
+    events:
+    - name: COLLISION EXIT
+      isSystemEvent: 1
+      isGlobal: 0
+    - name: FINISHED
+      isSystemEvent: 1
+      isGlobal: 0
+    - name: TRIGGER ENTER
+      isSystemEvent: 1
+      isGlobal: 0
+    globalTransitions: []
+    variables:
+      floatVariables: []
+      intVariables:
+      - useVariable: 1
+        name: layernumber
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: 0
+      boolVariables: []
+      stringVariables: []
+      vector2Variables: []
+      vector3Variables: []
+      colorVariables:
+      - useVariable: 1
+        name: clr
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: {r: 0, g: 0, b: 0, a: 1}
+      rectVariables: []
+      quaternionVariables: []
+      gameObjectVariables: []
+      objectVariables: []
+      materialVariables:
+      - useVariable: 1
+        name: mat
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.Object
+        value: {fileID: 0}
+      textureVariables: []
+    description: 
+    docUrl: 
+    showStateLabel: 1
+    maxReEnterStateCount: 1000
+    watermark: 
+    ExposedEvents: []
+    RestartOnEnable: 1
+    EnableDebugFlow: 0
+    StepFrame: 0
+    activeStateName: 
