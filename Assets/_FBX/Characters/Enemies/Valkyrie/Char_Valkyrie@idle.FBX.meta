@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: b9e6d8bfa774f4ef49c5ba85e13b212a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Valkyrie
+    100004: Valkyrie hair2
+    100006: Valkyrie hair3
+    100008: Valkyrie hair302
+    100010: Valkyrie hair_4
+    100012: Valkyrie hair_402
+    100014: Valkyrie hairBack
+    100016: Valkyrie hairBack02
+    100018: Valkyrie hairBack03
+    100020: Valkyrie Head
+    100022: Valkyrie L Calf
+    100024: Valkyrie L Clavicle
+    100026: Valkyrie L Finger0
+    100028: Valkyrie L Finger01
+    100030: Valkyrie L Finger02
+    100032: Valkyrie L Finger0Nub
+    100034: Valkyrie L Finger1
+    100036: Valkyrie L Finger11
+    100038: Valkyrie L Finger12
+    100040: Valkyrie L Finger1Nub
+    100042: Valkyrie L Finger2
+    100044: Valkyrie L Finger21
+    100046: Valkyrie L Finger22
+    100048: Valkyrie L Finger2Nub
+    100050: Valkyrie L Finger3
+    100052: Valkyrie L Finger31
+    100054: Valkyrie L Finger32
+    100056: Valkyrie L Finger3Nub
+    100058: Valkyrie L Finger4
+    100060: Valkyrie L Finger41
+    100062: Valkyrie L Finger42
+    100064: Valkyrie L Finger4Nub
+    100066: Valkyrie L Foot
+    100068: Valkyrie L Forearm
+    100070: Valkyrie L Hand
+    100072: Valkyrie L Thigh
+    100074: Valkyrie L Toe0
+    100076: Valkyrie L Toe0Nub
+    100078: Valkyrie L UpperArm
+    100080: Valkyrie Neck
+    100082: Valkyrie Pelvis
+    100084: Valkyrie R Calf
+    100086: Valkyrie R Clavicle
+    100088: Valkyrie R Finger0
+    100090: Valkyrie R Finger01
+    100092: Valkyrie R Finger02
+    100094: Valkyrie R Finger0Nub
+    100096: Valkyrie R Finger1
+    100098: Valkyrie R Finger11
+    100100: Valkyrie R Finger12
+    100102: Valkyrie R Finger1Nub
+    100104: Valkyrie R Finger2
+    100106: Valkyrie R Finger21
+    100108: Valkyrie R Finger22
+    100110: Valkyrie R Finger2Nub
+    100112: Valkyrie R Finger3
+    100114: Valkyrie R Finger31
+    100116: Valkyrie R Finger32
+    100118: Valkyrie R Finger3Nub
+    100120: Valkyrie R Finger4
+    100122: Valkyrie R Finger41
+    100124: Valkyrie R Finger42
+    100126: Valkyrie R Finger4Nub
+    100128: Valkyrie R Foot
+    100130: Valkyrie R Forearm
+    100132: Valkyrie R Hand
+    100134: Valkyrie R Thigh
+    100136: Valkyrie R Toe0
+    100138: Valkyrie R Toe0Nub
+    100140: Valkyrie R UpperArm
+    100142: Valkyrie Spine
+    100144: Valkyrie Spine1
+    100146: Valkyrie Spine2
+    100148: Valkyrie Tail
+    100150: Valkyrie Tail02
+    100152: Valkyrie Tail03
+    100154: Valkyrie Tail04
+    100156: Valkyrie Tail05
+    100158: Valkyrie Wing_L
+    100160: Valkyrie Wing_L02
+    100162: Valkyrie Wing_L03
+    100164: Valkyrie Wing_L04
+    100166: Valkyrie Wing_L05
+    100168: Valkyrie Wing_R
+    100170: Valkyrie Wing_R02
+    100172: Valkyrie Wing_R03
+    100174: Valkyrie Wing_R04
+    100176: Valkyrie Wing_R05
+    400000: //RootNode
+    400002: Valkyrie
+    400004: Valkyrie hair2
+    400006: Valkyrie hair3
+    400008: Valkyrie hair302
+    400010: Valkyrie hair_4
+    400012: Valkyrie hair_402
+    400014: Valkyrie hairBack
+    400016: Valkyrie hairBack02
+    400018: Valkyrie hairBack03
+    400020: Valkyrie Head
+    400022: Valkyrie L Calf
+    400024: Valkyrie L Clavicle
+    400026: Valkyrie L Finger0
+    400028: Valkyrie L Finger01
+    400030: Valkyrie L Finger02
+    400032: Valkyrie L Finger0Nub
+    400034: Valkyrie L Finger1
+    400036: Valkyrie L Finger11
+    400038: Valkyrie L Finger12
+    400040: Valkyrie L Finger1Nub
+    400042: Valkyrie L Finger2
+    400044: Valkyrie L Finger21
+    400046: Valkyrie L Finger22
+    400048: Valkyrie L Finger2Nub
+    400050: Valkyrie L Finger3
+    400052: Valkyrie L Finger31
+    400054: Valkyrie L Finger32
+    400056: Valkyrie L Finger3Nub
+    400058: Valkyrie L Finger4
+    400060: Valkyrie L Finger41
+    400062: Valkyrie L Finger42
+    400064: Valkyrie L Finger4Nub
+    400066: Valkyrie L Foot
+    400068: Valkyrie L Forearm
+    400070: Valkyrie L Hand
+    400072: Valkyrie L Thigh
+    400074: Valkyrie L Toe0
+    400076: Valkyrie L Toe0Nub
+    400078: Valkyrie L UpperArm
+    400080: Valkyrie Neck
+    400082: Valkyrie Pelvis
+    400084: Valkyrie R Calf
+    400086: Valkyrie R Clavicle
+    400088: Valkyrie R Finger0
+    400090: Valkyrie R Finger01
+    400092: Valkyrie R Finger02
+    400094: Valkyrie R Finger0Nub
+    400096: Valkyrie R Finger1
+    400098: Valkyrie R Finger11
+    400100: Valkyrie R Finger12
+    400102: Valkyrie R Finger1Nub
+    400104: Valkyrie R Finger2
+    400106: Valkyrie R Finger21
+    400108: Valkyrie R Finger22
+    400110: Valkyrie R Finger2Nub
+    400112: Valkyrie R Finger3
+    400114: Valkyrie R Finger31
+    400116: Valkyrie R Finger32
+    400118: Valkyrie R Finger3Nub
+    400120: Valkyrie R Finger4
+    400122: Valkyrie R Finger41
+    400124: Valkyrie R Finger42
+    400126: Valkyrie R Finger4Nub
+    400128: Valkyrie R Foot
+    400130: Valkyrie R Forearm
+    400132: Valkyrie R Hand
+    400134: Valkyrie R Thigh
+    400136: Valkyrie R Toe0
+    400138: Valkyrie R Toe0Nub
+    400140: Valkyrie R UpperArm
+    400142: Valkyrie Spine
+    400144: Valkyrie Spine1
+    400146: Valkyrie Spine2
+    400148: Valkyrie Tail
+    400150: Valkyrie Tail02
+    400152: Valkyrie Tail03
+    400154: Valkyrie Tail04
+    400156: Valkyrie Tail05
+    400158: Valkyrie Wing_L
+    400160: Valkyrie Wing_L02
+    400162: Valkyrie Wing_L03
+    400164: Valkyrie Wing_L04
+    400166: Valkyrie Wing_L05
+    400168: Valkyrie Wing_R
+    400170: Valkyrie Wing_R02
+    400172: Valkyrie Wing_R03
+    400174: Valkyrie Wing_R04
+    400176: Valkyrie Wing_R05
+    7400000: idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Valkyrie
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

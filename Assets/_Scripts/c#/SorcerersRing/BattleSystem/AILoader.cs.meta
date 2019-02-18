@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 8ecd61c52996f47b7bfa9b7b653fd553
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - brawlerPrefab: {fileID: 100144, guid: c4a7fa945d8904fd2b93154cb356cfd7, type: 2}
+  - casterPrefab: {fileID: 100144, guid: c4a7fa945d8904fd2b93154cb356cfd7, type: 2}
+  - battleMagePrefab: {fileID: 100144, guid: c4a7fa945d8904fd2b93154cb356cfd7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

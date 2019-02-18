@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7d7d50ed1953d438bac9596b2476b605
+labels:
+- gesture
+- trace
+- draw
+- drawing
+- touch
+- swipe
+- picture
+- menu
+- tracing
+- mouse
+- finger
+- art
+- swip
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

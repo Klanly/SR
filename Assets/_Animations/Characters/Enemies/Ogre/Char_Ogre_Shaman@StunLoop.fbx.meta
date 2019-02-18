@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: f966a34252cc64d13be3da657de3ae1b
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ogre_Shaman
+    100004: Ogre_Shaman BellyCNT
+    100006: Ogre_Shaman BellyCNT02
+    100008: Ogre_Shaman Chain_LShoulder
+    100010: Ogre_Shaman Cloth_Back
+    100012: Ogre_Shaman Cloth_Back02
+    100014: Ogre_Shaman FaceJaw
+    100016: Ogre_Shaman Head
+    100018: Ogre_Shaman HeadMaskBack
+    100020: Ogre_Shaman HeadMaskFront
+    100022: Ogre_Shaman L Calf
+    100024: Ogre_Shaman L Clavicle
+    100026: Ogre_Shaman L Finger0
+    100028: Ogre_Shaman L Finger01
+    100030: Ogre_Shaman L Finger02
+    100032: Ogre_Shaman L Finger1
+    100034: Ogre_Shaman L Finger11
+    100036: Ogre_Shaman L Finger12
+    100038: Ogre_Shaman L Finger2
+    100040: Ogre_Shaman L Finger21
+    100042: Ogre_Shaman L Finger22
+    100044: Ogre_Shaman L Finger3
+    100046: Ogre_Shaman L Finger31
+    100048: Ogre_Shaman L Finger32
+    100050: Ogre_Shaman L Foot
+    100052: Ogre_Shaman L Forearm
+    100054: Ogre_Shaman L Hand
+    100056: Ogre_Shaman L Thigh
+    100058: Ogre_Shaman L Toe0
+    100060: Ogre_Shaman L Toe01
+    100062: Ogre_Shaman L Toe1
+    100064: Ogre_Shaman L Toe11
+    100066: Ogre_Shaman L UpperArm
+    100068: Ogre_Shaman Neck
+    100070: Ogre_Shaman OgreEye
+    100072: Ogre_Shaman Pelvis
+    100074: Ogre_Shaman R Calf
+    100076: Ogre_Shaman R Clavicle
+    100078: Ogre_Shaman R Finger0
+    100080: Ogre_Shaman R Finger01
+    100082: Ogre_Shaman R Finger02
+    100084: Ogre_Shaman R Finger1
+    100086: Ogre_Shaman R Finger11
+    100088: Ogre_Shaman R Finger12
+    100090: Ogre_Shaman R Finger2
+    100092: Ogre_Shaman R Finger21
+    100094: Ogre_Shaman R Finger22
+    100096: Ogre_Shaman R Finger3
+    100098: Ogre_Shaman R Finger31
+    100100: Ogre_Shaman R Finger32
+    100102: Ogre_Shaman R Foot
+    100104: Ogre_Shaman R Forearm
+    100106: Ogre_Shaman R Hand
+    100108: Ogre_Shaman R Thigh
+    100110: Ogre_Shaman R Toe0
+    100112: Ogre_Shaman R Toe01
+    100114: Ogre_Shaman R Toe1
+    100116: Ogre_Shaman R Toe11
+    100118: Ogre_Shaman R UpperArm
+    100120: Ogre_Shaman skull_L
+    100122: Ogre_Shaman skull_L02
+    100124: Ogre_Shaman skull_R
+    100126: Ogre_Shaman skull_R02
+    100128: Ogre_Shaman SkullGrip
+    100130: Ogre_Shaman SkullGrip02
+    100132: Ogre_Shaman SkullGrip03
+    100134: Ogre_Shaman SkullGrip04
+    100136: Ogre_Shaman Spine
+    100138: Ogre_Shaman Spine1
+    100140: Ogre_Shaman Spine2
+    400000: //RootNode
+    400002: Ogre_Shaman
+    400004: Ogre_Shaman BellyCNT
+    400006: Ogre_Shaman BellyCNT02
+    400008: Ogre_Shaman Chain_LShoulder
+    400010: Ogre_Shaman Cloth_Back
+    400012: Ogre_Shaman Cloth_Back02
+    400014: Ogre_Shaman FaceJaw
+    400016: Ogre_Shaman Head
+    400018: Ogre_Shaman HeadMaskBack
+    400020: Ogre_Shaman HeadMaskFront
+    400022: Ogre_Shaman L Calf
+    400024: Ogre_Shaman L Clavicle
+    400026: Ogre_Shaman L Finger0
+    400028: Ogre_Shaman L Finger01
+    400030: Ogre_Shaman L Finger02
+    400032: Ogre_Shaman L Finger1
+    400034: Ogre_Shaman L Finger11
+    400036: Ogre_Shaman L Finger12
+    400038: Ogre_Shaman L Finger2
+    400040: Ogre_Shaman L Finger21
+    400042: Ogre_Shaman L Finger22
+    400044: Ogre_Shaman L Finger3
+    400046: Ogre_Shaman L Finger31
+    400048: Ogre_Shaman L Finger32
+    400050: Ogre_Shaman L Foot
+    400052: Ogre_Shaman L Forearm
+    400054: Ogre_Shaman L Hand
+    400056: Ogre_Shaman L Thigh
+    400058: Ogre_Shaman L Toe0
+    400060: Ogre_Shaman L Toe01
+    400062: Ogre_Shaman L Toe1
+    400064: Ogre_Shaman L Toe11
+    400066: Ogre_Shaman L UpperArm
+    400068: Ogre_Shaman Neck
+    400070: Ogre_Shaman OgreEye
+    400072: Ogre_Shaman Pelvis
+    400074: Ogre_Shaman R Calf
+    400076: Ogre_Shaman R Clavicle
+    400078: Ogre_Shaman R Finger0
+    400080: Ogre_Shaman R Finger01
+    400082: Ogre_Shaman R Finger02
+    400084: Ogre_Shaman R Finger1
+    400086: Ogre_Shaman R Finger11
+    400088: Ogre_Shaman R Finger12
+    400090: Ogre_Shaman R Finger2
+    400092: Ogre_Shaman R Finger21
+    400094: Ogre_Shaman R Finger22
+    400096: Ogre_Shaman R Finger3
+    400098: Ogre_Shaman R Finger31
+    400100: Ogre_Shaman R Finger32
+    400102: Ogre_Shaman R Foot
+    400104: Ogre_Shaman R Forearm
+    400106: Ogre_Shaman R Hand
+    400108: Ogre_Shaman R Thigh
+    400110: Ogre_Shaman R Toe0
+    400112: Ogre_Shaman R Toe01
+    400114: Ogre_Shaman R Toe1
+    400116: Ogre_Shaman R Toe11
+    400118: Ogre_Shaman R UpperArm
+    400120: Ogre_Shaman skull_L
+    400122: Ogre_Shaman skull_L02
+    400124: Ogre_Shaman skull_R
+    400126: Ogre_Shaman skull_R02
+    400128: Ogre_Shaman SkullGrip
+    400130: Ogre_Shaman SkullGrip02
+    400132: Ogre_Shaman SkullGrip03
+    400134: Ogre_Shaman SkullGrip04
+    400136: Ogre_Shaman Spine
+    400138: Ogre_Shaman Spine1
+    400140: Ogre_Shaman Spine2
+    7400000: StunLoop
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: StunLoop
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

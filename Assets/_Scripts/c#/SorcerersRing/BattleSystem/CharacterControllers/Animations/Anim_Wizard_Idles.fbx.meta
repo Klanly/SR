@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: e41b00ed9397f428cac6a47c3bd8f5e4
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RIG_CHAR_Heavy
+    100004: RIG_CHAR_Heavy Head
+    100006: RIG_CHAR_Heavy L Calf
+    100008: RIG_CHAR_Heavy L Clavicle
+    100010: RIG_CHAR_Heavy L Finger0
+    100012: RIG_CHAR_Heavy L Finger01
+    100014: RIG_CHAR_Heavy L Finger02
+    100016: RIG_CHAR_Heavy L Finger1
+    100018: RIG_CHAR_Heavy L Finger11
+    100020: RIG_CHAR_Heavy L Finger12
+    100022: RIG_CHAR_Heavy L Finger2
+    100024: RIG_CHAR_Heavy L Finger21
+    100026: RIG_CHAR_Heavy L Finger22
+    100028: RIG_CHAR_Heavy L Finger3
+    100030: RIG_CHAR_Heavy L Finger31
+    100032: RIG_CHAR_Heavy L Finger32
+    100034: RIG_CHAR_Heavy L Finger4
+    100036: RIG_CHAR_Heavy L Finger41
+    100038: RIG_CHAR_Heavy L Finger42
+    100040: RIG_CHAR_Heavy L Foot
+    100042: RIG_CHAR_Heavy L Forearm
+    100044: RIG_CHAR_Heavy L Hand
+    100046: RIG_CHAR_Heavy L Thigh
+    100048: RIG_CHAR_Heavy L Toe0
+    100050: RIG_CHAR_Heavy L UpperArm
+    100052: RIG_CHAR_Heavy Neck
+    100054: RIG_CHAR_Heavy Pelvis
+    100056: RIG_CHAR_Heavy R Calf
+    100058: RIG_CHAR_Heavy R Clavicle
+    100060: RIG_CHAR_Heavy R Finger0
+    100062: RIG_CHAR_Heavy R Finger01
+    100064: RIG_CHAR_Heavy R Finger02
+    100066: RIG_CHAR_Heavy R Finger1
+    100068: RIG_CHAR_Heavy R Finger11
+    100070: RIG_CHAR_Heavy R Finger12
+    100072: RIG_CHAR_Heavy R Finger2
+    100074: RIG_CHAR_Heavy R Finger21
+    100076: RIG_CHAR_Heavy R Finger22
+    100078: RIG_CHAR_Heavy R Finger3
+    100080: RIG_CHAR_Heavy R Finger31
+    100082: RIG_CHAR_Heavy R Finger32
+    100084: RIG_CHAR_Heavy R Finger4
+    100086: RIG_CHAR_Heavy R Finger41
+    100088: RIG_CHAR_Heavy R Finger42
+    100090: RIG_CHAR_Heavy R Foot
+    100092: RIG_CHAR_Heavy R Forearm
+    100094: RIG_CHAR_Heavy R Hand
+    100096: RIG_CHAR_Heavy R Thigh
+    100098: RIG_CHAR_Heavy R Toe0
+    100100: RIG_CHAR_Heavy R UpperArm
+    100102: RIG_CHAR_Heavy Spine
+    100104: RIG_CHAR_Heavy Spine1
+    100106: RIG_CHAR_Heavy Spine2
+    400000: //RootNode
+    400002: RIG_CHAR_Heavy
+    400004: RIG_CHAR_Heavy Head
+    400006: RIG_CHAR_Heavy L Calf
+    400008: RIG_CHAR_Heavy L Clavicle
+    400010: RIG_CHAR_Heavy L Finger0
+    400012: RIG_CHAR_Heavy L Finger01
+    400014: RIG_CHAR_Heavy L Finger02
+    400016: RIG_CHAR_Heavy L Finger1
+    400018: RIG_CHAR_Heavy L Finger11
+    400020: RIG_CHAR_Heavy L Finger12
+    400022: RIG_CHAR_Heavy L Finger2
+    400024: RIG_CHAR_Heavy L Finger21
+    400026: RIG_CHAR_Heavy L Finger22
+    400028: RIG_CHAR_Heavy L Finger3
+    400030: RIG_CHAR_Heavy L Finger31
+    400032: RIG_CHAR_Heavy L Finger32
+    400034: RIG_CHAR_Heavy L Finger4
+    400036: RIG_CHAR_Heavy L Finger41
+    400038: RIG_CHAR_Heavy L Finger42
+    400040: RIG_CHAR_Heavy L Foot
+    400042: RIG_CHAR_Heavy L Forearm
+    400044: RIG_CHAR_Heavy L Hand
+    400046: RIG_CHAR_Heavy L Thigh
+    400048: RIG_CHAR_Heavy L Toe0
+    400050: RIG_CHAR_Heavy L UpperArm
+    400052: RIG_CHAR_Heavy Neck
+    400054: RIG_CHAR_Heavy Pelvis
+    400056: RIG_CHAR_Heavy R Calf
+    400058: RIG_CHAR_Heavy R Clavicle
+    400060: RIG_CHAR_Heavy R Finger0
+    400062: RIG_CHAR_Heavy R Finger01
+    400064: RIG_CHAR_Heavy R Finger02
+    400066: RIG_CHAR_Heavy R Finger1
+    400068: RIG_CHAR_Heavy R Finger11
+    400070: RIG_CHAR_Heavy R Finger12
+    400072: RIG_CHAR_Heavy R Finger2
+    400074: RIG_CHAR_Heavy R Finger21
+    400076: RIG_CHAR_Heavy R Finger22
+    400078: RIG_CHAR_Heavy R Finger3
+    400080: RIG_CHAR_Heavy R Finger31
+    400082: RIG_CHAR_Heavy R Finger32
+    400084: RIG_CHAR_Heavy R Finger4
+    400086: RIG_CHAR_Heavy R Finger41
+    400088: RIG_CHAR_Heavy R Finger42
+    400090: RIG_CHAR_Heavy R Foot
+    400092: RIG_CHAR_Heavy R Forearm
+    400094: RIG_CHAR_Heavy R Hand
+    400096: RIG_CHAR_Heavy R Thigh
+    400098: RIG_CHAR_Heavy R Toe0
+    400100: RIG_CHAR_Heavy R UpperArm
+    400102: RIG_CHAR_Heavy Spine
+    400104: RIG_CHAR_Heavy Spine1
+    400106: RIG_CHAR_Heavy Spine2
+    7400000: Idle_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Idle_1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: RIG_CHAR_Heavy
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy L Thigh
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy L Thigh/RIG_CHAR_Heavy
+          L Calf
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy L Thigh/RIG_CHAR_Heavy
+          L Calf/RIG_CHAR_Heavy L Foot
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy L Thigh/RIG_CHAR_Heavy
+          L Calf/RIG_CHAR_Heavy L Foot/RIG_CHAR_Heavy L Toe0
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy R Thigh
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy R Thigh/RIG_CHAR_Heavy
+          R Calf
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy R Thigh/RIG_CHAR_Heavy
+          R Calf/RIG_CHAR_Heavy R Foot
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy R Thigh/RIG_CHAR_Heavy
+          R Calf/RIG_CHAR_Heavy R Foot/RIG_CHAR_Heavy R Toe0
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy Head
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger0
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger0/RIG_CHAR_Heavy L Finger01
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger0/RIG_CHAR_Heavy L Finger01/RIG_CHAR_Heavy L Finger02
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger1
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger1/RIG_CHAR_Heavy L Finger11
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger1/RIG_CHAR_Heavy L Finger11/RIG_CHAR_Heavy L Finger12
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger2
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger2/RIG_CHAR_Heavy L Finger21
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger2/RIG_CHAR_Heavy L Finger21/RIG_CHAR_Heavy L Finger22
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger3
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger3/RIG_CHAR_Heavy L Finger31
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger3/RIG_CHAR_Heavy L Finger31/RIG_CHAR_Heavy L Finger32
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger4
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger4/RIG_CHAR_Heavy L Finger41
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy L Clavicle/RIG_CHAR_Heavy
+          L UpperArm/RIG_CHAR_Heavy L Forearm/RIG_CHAR_Heavy L Hand/RIG_CHAR_Heavy
+          L Finger4/RIG_CHAR_Heavy L Finger41/RIG_CHAR_Heavy L Finger42
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger0
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger0/RIG_CHAR_Heavy R Finger01
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger0/RIG_CHAR_Heavy R Finger01/RIG_CHAR_Heavy R Finger02
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger1
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger1/RIG_CHAR_Heavy R Finger11
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger1/RIG_CHAR_Heavy R Finger11/RIG_CHAR_Heavy R Finger12
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger2
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger2/RIG_CHAR_Heavy R Finger21
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger2/RIG_CHAR_Heavy R Finger21/RIG_CHAR_Heavy R Finger22
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger3
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger3/RIG_CHAR_Heavy R Finger31
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger3/RIG_CHAR_Heavy R Finger31/RIG_CHAR_Heavy R Finger32
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger4
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger4/RIG_CHAR_Heavy R Finger41
+        weight: 1
+      - path: RIG_CHAR_Heavy/RIG_CHAR_Heavy Pelvis/RIG_CHAR_Heavy Spine/RIG_CHAR_Heavy
+          Spine1/RIG_CHAR_Heavy Spine2/RIG_CHAR_Heavy Neck/RIG_CHAR_Heavy R Clavicle/RIG_CHAR_Heavy
+          R UpperArm/RIG_CHAR_Heavy R Forearm/RIG_CHAR_Heavy R Hand/RIG_CHAR_Heavy
+          R Finger4/RIG_CHAR_Heavy R Finger41/RIG_CHAR_Heavy R Finger42
+        weight: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: RIG_CHAR_Heavy Pelvis
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0913123712, y: 0, z: .0456561856}
+        preQ: {x: .48065725, y: .519199908, z: -.491177708, w: -.508079171}
+        postQ: {x: -8.34017992e-05, y: -.0561462678, z: .998421729, w: .00121384859}
+        length: .114140496
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .209737718, y: 0, z: .104868859}
+        preQ: {x: .963068128, y: .245791405, z: .0867614001, w: -.0675186515}
+        postQ: {x: -0, y: -.243372038, z: .969932973, w: 5.96046412e-08}
+        length: .262172222
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .209737644, y: 0, z: .104868822}
+        preQ: {x: .966574252, y: .248215884, z: -.0561336949, w: -.0311753843}
+        postQ: {x: 1.49011626e-07, y: .0885609463, z: .996070743, w: -2.98023259e-08}
+        length: .262172133
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .219125599, y: 0, z: .109562799}
+        preQ: {x: -.144531474, y: -.24284853, z: .690712988, w: -.665620565}
+        postQ: {x: 1.04308128e-07, y: -.248665765, z: .968589306, w: -5.96046448e-08}
+        length: .273907065
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .219125479, y: 0, z: .10956274}
+        preQ: {x: .048491247, y: .165026978, z: .677274883, w: -.715341449}
+        postQ: {x: 1.19209282e-07, y: .104707025, z: .994502962, w: 2.98023206e-08}
+        length: .273906916
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .054675661, y: 0, z: .0273378305}
+        preQ: {x: .0556231923, y: -.244496882, z: .96483916, w: .0788203627}
+        postQ: {x: .016958937, y: -.192865476, z: .979368389, w: .0579035915}
+        length: .068344593
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0679311231, y: 0, z: .0339655615}
+        preQ: {x: -.0761521161, y: .0940556899, z: .982138455, w: .14407742}
+        postQ: {x: -.0110343397, y: .101885572, z: .992234647, w: .0704833865}
+        length: .0849139392
+        modified: 1
+    - boneName: RIG_CHAR_Heavy Spine
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .16681172, y: 0, z: .0834058598}
+        preQ: {x: -.0114493668, y: -.0559179336, z: .998239279, w: -.0161353946}
+        postQ: {x: .00336426473, y: -.0315866731, z: .998973191, w: -.0323029868}
+        length: .20851472
+        modified: 1
+    - boneName: RIG_CHAR_Heavy Spine2
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .319750011, y: 0, z: .159875005}
+        preQ: {x: .0173226297, y: -.0272941161, z: .991816938, w: .123507418}
+        postQ: {x: .00796997547, y: .0583114363, z: .997592568, w: -.0366781056}
+        length: .399687648
+        modified: 1
+    - boneName: RIG_CHAR_Heavy Head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .159875005, y: 0, z: .0799375027}
+        preQ: {x: .0206571221, y: -.239206851, z: -.961218834, w: .135689318}
+        postQ: {x: -.0174917877, y: -.290365517, z: -.953944743, w: .0732884109}
+        length: .199843824
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .130149737, y: 0, z: .0650748685}
+        preQ: {x: -.480606318, y: -.630652487, z: -.361902356, w: .490226209}
+        postQ: {x: 2.32597827e-07, y: -.595438659, z: .803400695, w: 2.03068353e-07}
+        length: .162687242
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .130149767, y: 0, z: .0650748834}
+        preQ: {x: .69508487, y: -.502381325, z: -.40699783, w: -.314360559}
+        postQ: {x: 4.28408384e-08, y: -.803275645, z: .5956074, w: 3.21306288e-08}
+        length: .162687287
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .226258576, y: 0, z: .113129288}
+        preQ: {x: .0736222714, y: -.551977038, z: .680627584, w: -.476074636}
+        postQ: {x: 9.4762072e-08, y: -.714380026, z: .699757814, w: 4.4011486e-08}
+        length: .282823294
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .226258576, y: 0, z: .113129288}
+        preQ: {x: .398324043, y: -.729819477, z: .555518985, w: -.00999568217}
+        postQ: {x: -5.68106771e-08, y: -.861653626, z: .507496774, w: -3.41096893e-08}
+        length: .282823294
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .179593474, y: 0, z: .0897967368}
+        preQ: {x: -.00374157145, y: -.0103186993, z: .744128108, w: -.667946756}
+        postQ: {x: -7.26431537e-08, y: -.0113047455, z: .999936044, w: 6.3329928e-08}
+        length: .224491909
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .179593489, y: 0, z: .0897967443}
+        preQ: {x: .646438241, y: -.726671398, z: -.167633265, w: -.161137611}
+        postQ: {x: -5.0291419e-08, y: -.968701243, z: -.24822925, w: -2.88709998e-08}
+        length: .224491939
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0897967368, y: 0, z: .0448983684}
+        preQ: {x: -9.72650014e-08, y: -.715061784, z: .699061155, w: -4.26565805e-09}
+        postQ: {x: -.0404071845, y: -.996916652, z: -.0617405772, w: .0266901571}
+        length: .112245955
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0897967443, y: 0, z: .0448983721}
+        preQ: {x: -5.21540642e-08, y: -.861065984, z: .508493185, w: 1.49011612e-08}
+        postQ: {x: .0796953961, y: -.234527767, z: .968052506, w: -.0389796458}
+        length: .112245969
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0515096039, y: 0, z: .0257548019}
+        preQ: {x: -.148368284, y: .124384746, z: -.651573956, w: -.733462036}
+        postQ: {x: -.192569956, y: -.0200424697, z: -.980169117, w: -.0422289521}
+        length: .0643870234
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0515095927, y: 0, z: .0257547963}
+        preQ: {x: .0798464045, y: -.0642414913, z: -.651776493, w: -.751455069}
+        postQ: {x: .103039995, y: .0195940286, z: -.991111517, w: -.0818335414}
+        length: .0643870085
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: .0485610291, y: 0, z: .0242805146}
+        preQ: {x: -.538031459, y: -.560808182, z: .581869543, w: -.239674971}
+        postQ: {x: -2.83122034e-07, y: -.0865262151, z: .996249437, w: 1.04308121e-07}
+        length: .0607013032
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .03233492, y: 0, z: .01616746}
+        preQ: {x: .013621009, y: -.0590973459, z: .970341682, w: .234006405}
+        postQ: {x: -1.63912773e-07, y: -.0822293013, z: .996613383, w: 7.74860382e-07}
+        length: .0404186659
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0242511909, y: 0, z: .0121255955}
+        preQ: {x: .0160225574, y: -.0584918931, z: .979086459, w: .194194615}
+        postQ: {x: -.00437729061, y: -.0821126774, z: .995200396, w: .0530516692}
+        length: .0303139985
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0355801769, y: 0, z: .0177900884}
+        preQ: {x: -.300539374, y: -.949365199, z: -.0130267888, w: -.090619266}
+        postQ: {x: -3.98606034e-07, y: -.997901678, z: -.0647481009, w: 1.36642475e-08}
+        length: .0444752388
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0352786444, y: 0, z: .0176393222}
+        preQ: {x: -.342821836, y: -.939219832, z: .00430893712, w: .0179070178}
+        postQ: {x: -2.55648047e-07, y: -.99833709, z: -.0576457307, w: -1.99679562e-07}
+        length: .0440983213
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0264589861, y: 0, z: .0132294931}
+        preQ: {x: -.307103008, y: -.951497972, z: .00498236623, w: .017732475}
+        postQ: {x: .116208337, y: -.991550446, z: -.0572538823, w: .00670992583}
+        length: .0330737419
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0451220833, y: 0, z: .0225610416}
+        preQ: {x: -.324296564, y: -.943821073, z: -.00850214995, w: -.0629371628}
+        postQ: {x: 1.79512426e-07, y: -.998059511, z: -.0622674599, w: -3.48616105e-08}
+        length: .0564026199
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0380630232, y: 0, z: .0190315116}
+        preQ: {x: -.341295242, y: -.939673483, z: .0153767848, w: .0171682592}
+        postQ: {x: 1.82539225e-07, y: -.998531938, z: -.0541667715, w: 6.05359674e-09}
+        length: .0475787967
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0285472702, y: 0, z: .0142736351}
+        preQ: {x: -.305560619, y: -.951893628, z: .0160145219, w: .0165755805}
+        postQ: {x: .116231456, y: -.991743982, z: -.0537985563, w: .0063051465}
+        length: .0356840976
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0447525494, y: 0, z: .0223762747}
+        preQ: {x: -.328698337, y: -.944364011, z: -.00818086788, w: .00818398409}
+        postQ: {x: -2.02562646e-07, y: -.998105705, z: -.0615225248, w: -9.19380909e-08}
+        length: .0559407063
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0347051248, y: 0, z: .0173525624}
+        preQ: {x: -.305178732, y: -.952055335, z: .0101282587, w: .0188114308}
+        postQ: {x: 4.63332952e-07, y: -.998105645, z: -.0615226664, w: 4.15638141e-07}
+        length: .0433814228
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0260288473, y: 0, z: .0130144237}
+        preQ: {x: -.305178791, y: -.952055395, z: .0101282569, w: .0188114345}
+        postQ: {x: 4.63332952e-07, y: -.998105705, z: -.0615226701, w: 4.1563905e-07}
+        length: .0325360671
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0338929743, y: 0, z: .0169464871}
+        preQ: {x: -.321293175, y: -.945745647, z: -.0112896655, w: .0469926074}
+        postQ: {x: 6.82077314e-07, y: -.995191216, z: -.0979507565, w: -1.41952787e-08}
+        length: .0423662364
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0304261018, y: 0, z: .0152130509}
+        preQ: {x: -.304456145, y: -.951715529, z: -.0254150648, w: .029965831}
+        postQ: {x: -5.55650274e-07, y: -.995191216, z: -.0979504883, w: 1.18300129e-07}
+        length: .038032636
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0228195749, y: 0, z: .0114097875}
+        preQ: {x: -.304456174, y: -.951715529, z: -.0254150722, w: .0299658384}
+        postQ: {x: -5.54777159e-07, y: -.995191216, z: -.0979504809, w: 1.18300015e-07}
+        length: .028524477
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0355801694, y: 0, z: .0177900847}
+        preQ: {x: -.168431848, y: .18560797, z: -.925900102, w: -.282646537}
+        postQ: {x: 8.94069672e-08, y: -.231162548, z: .972915113, w: 1.18277967e-07}
+        length: .0444752276
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0352786221, y: 0, z: .017639311}
+        preQ: {x: -.064117834, y: .188046589, z: -.919764757, w: -.3384673}
+        postQ: {x: 3.7252903e-08, y: -.228326529, z: .973584533, w: -2.08616257e-07}
+        length: .0440982953
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0264589712, y: 0, z: .0132294856}
+        preQ: {x: -.0711740553, y: .185490921, z: -.931892395, w: -.3034859}
+        postQ: {x: .0265777614, y: -.226774395, z: .966966271, w: -.113327578}
+        length: .0330737233
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0451220758, y: 0, z: .0225610379}
+        preQ: {x: -.134358108, y: .184267029, z: -.920928299, w: -.316045135}
+        postQ: {x: 1.73225999e-07, y: -.227352798, z: .973812401, w: 3.7252903e-07}
+        length: .0564026125
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0380630232, y: 0, z: .0190315116}
+        preQ: {x: -.0630330294, y: .182495385, z: -.920898914, w: -.33862561}
+        postQ: {x: -8.75443291e-08, y: -.224311158, z: .974517524, w: -3.2968822e-07}
+        length: .0475787967
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0285472702, y: 0, z: .0142736351}
+        preQ: {x: -.0698816627, y: .179984152, z: -.933032155, w: -.303600281}
+        postQ: {x: .0261102151, y: -.222786307, z: .967892766, w: -.113436304}
+        length: .0356840976
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0447525308, y: 0, z: .0223762654}
+        preQ: {x: -.0632802472, y: .192401946, z: -.915581644, w: -.347400814}
+        postQ: {x: 2.14204174e-08, y: -.224528372, z: .974467516, w: 4.37721575e-08}
+        length: .0559406802
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0347052179, y: 0, z: .017352609}
+        preQ: {x: -.070157595, y: .189947724, z: -.930744231, w: -.304487944}
+        postQ: {x: 6.42612434e-08, y: -.224528432, z: .974467576, w: -2.61701587e-07}
+        length: .0433815382
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0260289144, y: 0, z: .0130144572}
+        preQ: {x: -.0701576024, y: .189947724, z: -.930744231, w: -.304487944}
+        postQ: {x: 7.17118311e-08, y: -.224528417, z: .974467576, w: -2.55182357e-07}
+        length: .0325361528
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0338929817, y: 0, z: .0169464909}
+        preQ: {x: -.0269076284, y: .198518127, z: -.914497256, w: -.351512522}
+        postQ: {x: 2.29105368e-07, y: -.190146357, z: .981755733, w: 4.41446929e-07}
+        length: .0423662439
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0304260775, y: 0, z: .0152130388}
+        preQ: {x: -.0594276823, y: .158069208, z: -.936661065, w: -.30683583}
+        postQ: {x: -3.59490514e-07, y: -.190146431, z: .981755733, w: -5.16884029e-07}
+        length: .0380326062
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0228195563, y: 0, z: .0114097781}
+        preQ: {x: -.0594276935, y: .158069223, z: -.936661184, w: -.30683583}
+        postQ: {x: -3.61353159e-07, y: -.190146416, z: .981755614, w: -5.25731537e-07}
+        length: .0285244547
+        modified: 1
+    skeleton:
+    - name: Anim_Wizard_Idles
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy
+      position: {x: -.00019806411, y: .599256337, z: -.00332105788}
+      rotation: {x: -.327609092, y: .648864508, z: .622720242, w: .289597034}
+      scale: {x: .999999821, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Pelvis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -.377208918, y: .598908305, z: .308435053, w: .635523379}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Thigh
+      position: {x: 1.52587887e-07, y: 1.57356254e-07, z: .0986582711}
+      rotation: {x: -.00583354384, y: .952141166, z: .296133906, w: .0754833668}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Calf
+      position: {x: -.262172282, y: -9.53674295e-09, z: 0}
+      rotation: {x: -2.00455226e-08, y: 1.36731932e-08, z: .0625964776, w: .998038888}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Foot
+      position: {x: -.273907095, y: 0, z: 0}
+      rotation: {x: .0552524216, y: .0391574427, z: -.0147451134, w: .997595251}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Toe0
+      position: {x: -.0577492118, y: .114954442, z: .00576649653}
+      rotation: {x: -1.22381678e-07, y: -5.83303574e-07, z: -.718328059, w: .695704401}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Thigh
+      position: {x: -1.52587887e-07, y: -1.12056732e-07, z: -.0986582413}
+      rotation: {x: .00291975704, y: .996813416, z: -.0311612189, w: -.0733719766}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Calf
+      position: {x: -.262172222, y: 4.76837148e-09, z: 0}
+      rotation: {x: 3.40688402e-08, y: -1.11299965e-08, z: .112776659, w: .993620336}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Foot
+      position: {x: -.273907006, y: -1.43051144e-08, z: 0}
+      rotation: {x: .00296281022, y: -.0727735981, z: -.0670132339, w: .995090127}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Toe0
+      position: {x: -.057749223, y: .114954449, z: -.00576648721}
+      rotation: {x: -.00554558495, y: .00800348818, z: -.699622571, w: .714446127}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Spine
+      position: {x: -.114140205, y: .000277726649, z: -3.45140688e-06}
+      rotation: {x: .0247536208, y: -.013499381, z: -.016677089, w: .99946326}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Spine1
+      position: {x: -.0911185443, y: -9.30809983e-05, z: -1.31130219e-06}
+      rotation: {x: .00675199181, y: .00471561542, z: .0560692661, w: .99839288}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Spine2
+      position: {x: -.117726289, y: -.000222711562, z: -3.88658045e-05}
+      rotation: {x: .0834429115, y: .00317536481, z: -.160815716, w: .983445704}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Neck
+      position: {x: -.314575404, y: -.0290268697, z: -1.9334555e-05}
+      rotation: {x: .177508354, y: .0440131202, z: .00750593655, w: .983105898}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Head
+      position: {x: -.084324874, y: .00289415359, z: -1.78813924e-08}
+      rotation: {x: .0548020899, y: -.0146507919, z: .0691762492, w: .995990276}
+      scale: {x: 1, y: .999999821, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Clavicle
+      position: {x: .134090424, y: .00665780995, z: .0747898445}
+      rotation: {x: .722157121, y: -.094219856, z: -.680019855, w: .0847622678}
+      scale: {x: .999999881, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L UpperArm
+      position: {x: -.162687272, y: 0, z: 7.62939436e-08}
+      rotation: {x: -.155187935, y: .00520809973, z: .110351525, w: .981688321}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Forearm
+      position: {x: -.282823324, y: -1.90734859e-08, z: 0}
+      rotation: {x: -.000846844283, y: .00351517252, z: .0334616862, w: .999433458}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Hand
+      position: {x: -.224491954, y: 2.86102289e-08, z: 0}
+      rotation: {x: -.741054118, y: .00916197896, z: .0475515909, w: .669696629}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger0
+      position: {x: -.0505819693, y: .060950622, z: -.0358400159}
+      rotation: {x: .611840844, y: -.417216599, z: .207673088, w: .639103174}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger01
+      position: {x: -.0607013106, y: 0, z: 1.90734859e-08}
+      rotation: {x: 0, y: -5.96046164e-08, z: -.0408275649, w: .999166131}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger02
+      position: {x: -.040418651, y: 3.81469718e-08, z: -1.90734859e-08}
+      rotation: {x: 5.77831427e-09, y: -3.42255646e-09, z: .0532311425, w: .998582184}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger1
+      position: {x: -.129358023, y: .0134903714, z: -.0769292042}
+      rotation: {x: -.00101558026, y: -.0338343494, z: -.0164540168, w: .99929148}
+      scale: {x: .99999994, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger11
+      position: {x: -.0444752499, y: 0, z: 0}
+      rotation: {x: -1.84634573e-07, y: -9.68574795e-07, z: -.0377698913, w: .999286413}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger12
+      position: {x: -.0440983176, y: 3.81469718e-08, z: -1.90734859e-08}
+      rotation: {x: -7.16902138e-09, y: -2.91660971e-08, z: -.116402179, w: .99320215}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger2
+      position: {x: -.131296962, y: .00280639646, z: -.031007098}
+      rotation: {x: -.00292193634, y: -.043201264, z: -.0440022387, w: .998092592}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger21
+      position: {x: -.0564026237, y: 0, z: 0}
+      rotation: {x: 1.40629624e-07, y: -4.17232286e-07, z: -.0377696007, w: .999286413}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger22
+      position: {x: -.0475787707, y: 1.90734859e-08, z: 0}
+      rotation: {x: -3.69996611e-09, y: 4.33631853e-10, z: -.116402172, w: .99320215}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger3
+      position: {x: -.130056113, y: -.0022762299, z: .0143735306}
+      rotation: {x: -.00399218779, y: -.0482050478, z: -.0540267751, w: .997367203}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger31
+      position: {x: -.0559406653, y: 0, z: -1.90734859e-08}
+      rotation: {x: -8.14907197e-10, y: -3.79470735e-19, z: 4.6566126e-10, w: .99999994}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger32
+      position: {x: -.0433814228, y: 0, z: 3.81469718e-08}
+      rotation: {x: -8.14907197e-10, y: -3.79470735e-19, z: 4.6566126e-10, w: .99999994}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger4
+      position: {x: -.124201313, y: .00924541429, z: .0554080456}
+      rotation: {x: -.0395906195, y: -.0457712114, z: -.0508678295, w: .9968701}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger41
+      position: {x: -.0423662178, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -9.31322519e-10, w: .99999994}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger42
+      position: {x: -.0380326062, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -9.31322519e-10, w: .99999994}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Clavicle
+      position: {x: .144297704, y: -.0358972549, z: -.0387677029}
+      rotation: {x: .626153529, y: .161479533, z: .745580256, w: .161139816}
+      scale: {x: .99999994, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R UpperArm
+      position: {x: -.162687302, y: 0, z: 0}
+      rotation: {x: -.105432831, y: -.0182874575, z: -.0062411679, w: .994238615}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Forearm
+      position: {x: -.282823265, y: 0, z: 0}
+      rotation: {x: .00137755217, y: -.00822412129, z: .0313130766, w: .999474764}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Hand
+      position: {x: -.224491954, y: 1.90734859e-08, z: 0}
+      rotation: {x: .714301348, y: -.00696056429, z: -.0884439051, w: .694192052}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger0
+      position: {x: -.0505820066, y: .0609506406, z: .0358400047}
+      rotation: {x: -.613323092, y: .417916089, z: .204497755, w: .638248742}
+      scale: {x: 1.00000024, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger01
+      position: {x: -.0607013293, y: 0, z: -9.53674295e-09}
+      rotation: {x: -4.16612495e-10, y: -7.43892237e-09, z: -.0559167899, w: .998435378}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger02
+      position: {x: -.0404186621, y: 3.81469718e-08, z: 0}
+      rotation: {x: -7.63831753e-09, y: 3.32340533e-09, z: .0532311425, w: .998582184}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger1
+      position: {x: -.129357979, y: .0134903714, z: .0769292042}
+      rotation: {x: .0010048477, y: .0343223065, z: -.0176613778, w: .999254227}
+      scale: {x: .99999994, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger11
+      position: {x: -.0444752499, y: 0, z: 4.76837148e-09}
+      rotation: {x: -5.96046092e-08, y: 6.6123863e-07, z: -.0377702229, w: .999286413}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger12
+      position: {x: -.0440983176, y: -3.81469718e-08, z: -4.76837148e-09}
+      rotation: {x: -1.73452763e-09, y: -1.47998644e-08, z: -.116402186, w: .99320215}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger2
+      position: {x: -.131296992, y: .00280641555, z: .031007085}
+      rotation: {x: .00244206027, y: .0427745059, z: -.0414517075, w: .998221457}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger21
+      position: {x: -.0564026237, y: 0, z: 9.53674295e-09}
+      rotation: {x: -2.98023046e-08, y: -4.96394591e-07, z: -.0377716012, w: .999286354}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger22
+      position: {x: -.0475788116, y: 0, z: 0}
+      rotation: {x: 5.98358252e-09, y: 3.04951864e-09, z: -.116402194, w: .99320215}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger3
+      position: {x: -.130056113, y: -.0022762299, z: -.0143735455}
+      rotation: {x: .00399222691, y: .0482042581, z: -.0540266894, w: .997367263}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger31
+      position: {x: -.0559406653, y: 0, z: 0}
+      rotation: {x: 2.7939675e-09, y: -3.72529008e-09, z: 1.040834e-17, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger32
+      position: {x: -.043381501, y: -3.81469718e-08, z: -9.53674295e-09}
+      rotation: {x: 2.7939675e-09, y: -3.72529008e-09, z: 1.040834e-17, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger4
+      position: {x: -.12420135, y: .00924543384, z: -.0554080531}
+      rotation: {x: .0395908691, y: .0457714275, z: -.0508671664, w: .9968701}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger41
+      position: {x: -.0423662178, y: 0, z: 9.53674295e-09}
+      rotation: {x: -6.28642738e-09, y: 9.31322575e-10, z: -7.45058015e-09, w: .99999994}
+      scale: {x: .99999994, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger42
+      position: {x: -.0380326062, y: 0, z: -1.90734859e-08}
+      rotation: {x: -6.28642738e-09, y: 9.31322575e-10, z: -7.45058015e-09, w: .99999994}
+      scale: {x: .99999994, y: .99999994, z: .999999881}
+      transformModified: 1
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 3
+  userData: 

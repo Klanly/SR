@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: bc1c439b72b8a40f5a2c51ba93d119bb
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wizard
+    100004: Wizard Cloth_L
+    100006: Wizard Cloth_L02
+    100008: Wizard Cloth_L03
+    100010: Wizard Cloth_R
+    100012: Wizard Cloth_R02
+    100014: Wizard Cloth_R03
+    100016: Wizard ClothTailBack
+    100018: Wizard ClothTailBack02
+    100020: Wizard ClothTailBack03
+    100022: Wizard ClothTailBack04
+    100024: Wizard ClothTailFront
+    100026: Wizard ClothTailFront02
+    100028: Wizard ClothTailFront03
+    100030: Wizard guard_L
+    100032: Wizard guard_R
+    100034: Wizard Head
+    100036: Wizard L Calf
+    100038: Wizard L Clavicle
+    100040: Wizard L Finger0
+    100042: Wizard L Finger01
+    100044: Wizard L Finger02
+    100046: Wizard L Finger1
+    100048: Wizard L Finger11
+    100050: Wizard L Finger12
+    100052: Wizard L Finger2
+    100054: Wizard L Finger21
+    100056: Wizard L Finger22
+    100058: Wizard L Finger3
+    100060: Wizard L Finger31
+    100062: Wizard L Finger32
+    100064: Wizard L Finger4
+    100066: Wizard L Finger41
+    100068: Wizard L Finger42
+    100070: Wizard L Foot
+    100072: Wizard L Forearm
+    100074: Wizard L Hand
+    100076: Wizard L Thigh
+    100078: Wizard L Toe0
+    100080: Wizard L UpperArm
+    100082: Wizard Neck
+    100084: Wizard Pelvis
+    100086: Wizard Prop1
+    100088: Wizard R Calf
+    100090: Wizard R Clavicle
+    100092: Wizard R Finger0
+    100094: Wizard R Finger01
+    100096: Wizard R Finger02
+    100098: Wizard R Finger1
+    100100: Wizard R Finger11
+    100102: Wizard R Finger12
+    100104: Wizard R Finger2
+    100106: Wizard R Finger21
+    100108: Wizard R Finger22
+    100110: Wizard R Finger3
+    100112: Wizard R Finger31
+    100114: Wizard R Finger32
+    100116: Wizard R Finger4
+    100118: Wizard R Finger41
+    100120: Wizard R Finger42
+    100122: Wizard R Foot
+    100124: Wizard R Forearm
+    100126: Wizard R Hand
+    100128: Wizard R Thigh
+    100130: Wizard R Toe0
+    100132: Wizard R UpperArm
+    100134: Wizard sleeve_L
+    100136: Wizard sleeve_L02
+    100138: Wizard sleeve_LOpp
+    100140: Wizard sleeve_LOpp02
+    100142: Wizard Spine
+    100144: Wizard Spine1
+    100146: Wizard Spine2
+    400000: //RootNode
+    400002: Wizard
+    400004: Wizard Cloth_L
+    400006: Wizard Cloth_L02
+    400008: Wizard Cloth_L03
+    400010: Wizard Cloth_R
+    400012: Wizard Cloth_R02
+    400014: Wizard Cloth_R03
+    400016: Wizard ClothTailBack
+    400018: Wizard ClothTailBack02
+    400020: Wizard ClothTailBack03
+    400022: Wizard ClothTailBack04
+    400024: Wizard ClothTailFront
+    400026: Wizard ClothTailFront02
+    400028: Wizard ClothTailFront03
+    400030: Wizard guard_L
+    400032: Wizard guard_R
+    400034: Wizard Head
+    400036: Wizard L Calf
+    400038: Wizard L Clavicle
+    400040: Wizard L Finger0
+    400042: Wizard L Finger01
+    400044: Wizard L Finger02
+    400046: Wizard L Finger1
+    400048: Wizard L Finger11
+    400050: Wizard L Finger12
+    400052: Wizard L Finger2
+    400054: Wizard L Finger21
+    400056: Wizard L Finger22
+    400058: Wizard L Finger3
+    400060: Wizard L Finger31
+    400062: Wizard L Finger32
+    400064: Wizard L Finger4
+    400066: Wizard L Finger41
+    400068: Wizard L Finger42
+    400070: Wizard L Foot
+    400072: Wizard L Forearm
+    400074: Wizard L Hand
+    400076: Wizard L Thigh
+    400078: Wizard L Toe0
+    400080: Wizard L UpperArm
+    400082: Wizard Neck
+    400084: Wizard Pelvis
+    400086: Wizard Prop1
+    400088: Wizard R Calf
+    400090: Wizard R Clavicle
+    400092: Wizard R Finger0
+    400094: Wizard R Finger01
+    400096: Wizard R Finger02
+    400098: Wizard R Finger1
+    400100: Wizard R Finger11
+    400102: Wizard R Finger12
+    400104: Wizard R Finger2
+    400106: Wizard R Finger21
+    400108: Wizard R Finger22
+    400110: Wizard R Finger3
+    400112: Wizard R Finger31
+    400114: Wizard R Finger32
+    400116: Wizard R Finger4
+    400118: Wizard R Finger41
+    400120: Wizard R Finger42
+    400122: Wizard R Foot
+    400124: Wizard R Forearm
+    400126: Wizard R Hand
+    400128: Wizard R Thigh
+    400130: Wizard R Toe0
+    400132: Wizard R UpperArm
+    400134: Wizard sleeve_L
+    400136: Wizard sleeve_L02
+    400138: Wizard sleeve_LOpp
+    400140: Wizard sleeve_LOpp02
+    400142: Wizard Spine
+    400144: Wizard Spine1
+    400146: Wizard Spine2
+    7400000: CastThrow_new_op2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: CastThrow_new_op2
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Wizard
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

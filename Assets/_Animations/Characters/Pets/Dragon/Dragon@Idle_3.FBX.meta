@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: c5e4693389e064b06a74abef3ca627ee
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Drago_R_Body
+    100002: Drago_R_Head
+    100004: Drago_R_Neck_01
+    100006: Drago_R_Neck_02
+    100008: Drago_R_Neck_03
+    100010: Drago_R_Neck_04
+    100012: Drago_R_Root
+    100014: Drago_R_Shoulder_Base
+    100016: Drago_R_Spine_01
+    100018: Drago_R_Spine_02
+    100020: Drago_R_Spine_03
+    100022: Drago_R_Spine_04
+    100024: Drago_R_Spine_05
+    100026: //RootNode
+    100028: Dragon_Body
+    100030: Dragon_R_Base_back_L
+    100032: Dragon_R_Base_back_R
+    100034: Dragon_R_Base_middle_L
+    100036: Dragon_R_Base_middle_R
+    100038: Dragon_R_Calf_back_L
+    100040: Dragon_R_Calf_back_R
+    100042: Dragon_R_Calf_front_L
+    100044: Dragon_R_Calf_front_R
+    100046: Dragon_R_Calf_middle_L
+    100048: Dragon_R_Calf_middle_R
+    100050: Dragon_R_Feet_Back_L
+    100052: Dragon_R_Feet_Back_L_node
+    100054: Dragon_R_Feet_Back_R
+    100056: Dragon_R_Feet_Back_R_node
+    100058: Dragon_R_Feet_front_L
+    100060: Dragon_R_Feet_front_L_node
+    100062: Dragon_R_Feet_front_R
+    100064: Dragon_R_Feet_front_R_node
+    100066: Dragon_R_Feet_middle_L
+    100068: Dragon_R_Feet_middle_L_node
+    100070: Dragon_R_Feet_middle_R
+    100072: Dragon_R_Feet_middle_R_node
+    100074: Dragon_R_Mostac_Base_L
+    100076: Dragon_R_Mostac_Base_R
+    100078: Dragon_R_Mostac_L_01
+    100080: Dragon_R_Mostac_L_02
+    100082: Dragon_R_Mostac_L_03
+    100084: Dragon_R_Mostac_L_04
+    100086: Dragon_R_Mostac_L_05
+    100088: Dragon_R_Mostac_R_01
+    100090: Dragon_R_Mostac_R_02
+    100092: Dragon_R_Mostac_R_03
+    100094: Dragon_R_Mostac_R_04
+    100096: Dragon_R_Mostac_R_05
+    100098: Dragon_R_Tail_00
+    100100: Dragon_R_Tail_01
+    100102: Dragon_R_Tail_02
+    100104: Dragon_R_Tail_03
+    100106: Dragon_R_Tail_04
+    100108: Dragon_R_Tail_05
+    100110: Dragon_R_Tail_07
+    100112: Dragon_R_Tail_08
+    100114: Dragon_R_Thigh_Back_L
+    100116: Dragon_R_Thigh_Back_R
+    100118: Dragon_R_Thigh_front_L
+    100120: Dragon_R_Thigh_front_R
+    100122: Dragon_R_Thigh_middle_L
+    100124: Dragon_R_Thigh_middle_R
+    100126: Dummy001
+    100128: Dummy002
+    100130: IK Chain001
+    100132: IK Chain002
+    100134: IK Chain003
+    100136: IK Chain004
+    100138: IK Chain007
+    100140: IK Chain008
+    100142: IK Chain009
+    100144: IK Chain010
+    100146: Sphere001
+    400000: Drago_R_Body
+    400002: Drago_R_Head
+    400004: Drago_R_Neck_01
+    400006: Drago_R_Neck_02
+    400008: Drago_R_Neck_03
+    400010: Drago_R_Neck_04
+    400012: Drago_R_Root
+    400014: Drago_R_Shoulder_Base
+    400016: Drago_R_Spine_01
+    400018: Drago_R_Spine_02
+    400020: Drago_R_Spine_03
+    400022: Drago_R_Spine_04
+    400024: Drago_R_Spine_05
+    400026: //RootNode
+    400028: Dragon_Body
+    400030: Dragon_R_Base_back_L
+    400032: Dragon_R_Base_back_R
+    400034: Dragon_R_Base_middle_L
+    400036: Dragon_R_Base_middle_R
+    400038: Dragon_R_Calf_back_L
+    400040: Dragon_R_Calf_back_R
+    400042: Dragon_R_Calf_front_L
+    400044: Dragon_R_Calf_front_R
+    400046: Dragon_R_Calf_middle_L
+    400048: Dragon_R_Calf_middle_R
+    400050: Dragon_R_Feet_Back_L
+    400052: Dragon_R_Feet_Back_L_node
+    400054: Dragon_R_Feet_Back_R
+    400056: Dragon_R_Feet_Back_R_node
+    400058: Dragon_R_Feet_front_L
+    400060: Dragon_R_Feet_front_L_node
+    400062: Dragon_R_Feet_front_R
+    400064: Dragon_R_Feet_front_R_node
+    400066: Dragon_R_Feet_middle_L
+    400068: Dragon_R_Feet_middle_L_node
+    400070: Dragon_R_Feet_middle_R
+    400072: Dragon_R_Feet_middle_R_node
+    400074: Dragon_R_Mostac_Base_L
+    400076: Dragon_R_Mostac_Base_R
+    400078: Dragon_R_Mostac_L_01
+    400080: Dragon_R_Mostac_L_02
+    400082: Dragon_R_Mostac_L_03
+    400084: Dragon_R_Mostac_L_04
+    400086: Dragon_R_Mostac_L_05
+    400088: Dragon_R_Mostac_R_01
+    400090: Dragon_R_Mostac_R_02
+    400092: Dragon_R_Mostac_R_03
+    400094: Dragon_R_Mostac_R_04
+    400096: Dragon_R_Mostac_R_05
+    400098: Dragon_R_Tail_00
+    400100: Dragon_R_Tail_01
+    400102: Dragon_R_Tail_02
+    400104: Dragon_R_Tail_03
+    400106: Dragon_R_Tail_04
+    400108: Dragon_R_Tail_05
+    400110: Dragon_R_Tail_07
+    400112: Dragon_R_Tail_08
+    400114: Dragon_R_Thigh_Back_L
+    400116: Dragon_R_Thigh_Back_R
+    400118: Dragon_R_Thigh_front_L
+    400120: Dragon_R_Thigh_front_R
+    400122: Dragon_R_Thigh_middle_L
+    400124: Dragon_R_Thigh_middle_R
+    400126: Dummy001
+    400128: Dummy002
+    400130: IK Chain001
+    400132: IK Chain002
+    400134: IK Chain003
+    400136: IK Chain004
+    400138: IK Chain007
+    400140: IK Chain008
+    400142: IK Chain009
+    400144: IK Chain010
+    400146: Sphere001
+    2300000: Sphere001
+    3300000: Sphere001
+    4300000: Dragon_Body
+    4300002: Sphere001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Dragon_Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

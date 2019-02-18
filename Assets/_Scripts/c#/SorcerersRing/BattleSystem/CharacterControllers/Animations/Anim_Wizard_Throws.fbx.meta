@@ -1,0 +1,1556 @@
+fileFormatVersion: 2
+guid: 9c10f93adf52047cdaa18ade75a59448
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RIG_CHAR_Heavy
+    100004: RIG_CHAR_Heavy Head
+    100006: RIG_CHAR_Heavy L Calf
+    100008: RIG_CHAR_Heavy L Clavicle
+    100010: RIG_CHAR_Heavy L Finger0
+    100012: RIG_CHAR_Heavy L Finger01
+    100014: RIG_CHAR_Heavy L Finger02
+    100016: RIG_CHAR_Heavy L Finger1
+    100018: RIG_CHAR_Heavy L Finger11
+    100020: RIG_CHAR_Heavy L Finger12
+    100022: RIG_CHAR_Heavy L Finger2
+    100024: RIG_CHAR_Heavy L Finger21
+    100026: RIG_CHAR_Heavy L Finger22
+    100028: RIG_CHAR_Heavy L Finger3
+    100030: RIG_CHAR_Heavy L Finger31
+    100032: RIG_CHAR_Heavy L Finger32
+    100034: RIG_CHAR_Heavy L Finger4
+    100036: RIG_CHAR_Heavy L Finger41
+    100038: RIG_CHAR_Heavy L Finger42
+    100040: RIG_CHAR_Heavy L Foot
+    100042: RIG_CHAR_Heavy L Forearm
+    100044: RIG_CHAR_Heavy L Hand
+    100046: RIG_CHAR_Heavy L Thigh
+    100048: RIG_CHAR_Heavy L Toe0
+    100050: RIG_CHAR_Heavy L UpperArm
+    100052: RIG_CHAR_Heavy Neck
+    100054: RIG_CHAR_Heavy Pelvis
+    100056: RIG_CHAR_Heavy R Calf
+    100058: RIG_CHAR_Heavy R Clavicle
+    100060: RIG_CHAR_Heavy R Finger0
+    100062: RIG_CHAR_Heavy R Finger01
+    100064: RIG_CHAR_Heavy R Finger02
+    100066: RIG_CHAR_Heavy R Finger1
+    100068: RIG_CHAR_Heavy R Finger11
+    100070: RIG_CHAR_Heavy R Finger12
+    100072: RIG_CHAR_Heavy R Finger2
+    100074: RIG_CHAR_Heavy R Finger21
+    100076: RIG_CHAR_Heavy R Finger22
+    100078: RIG_CHAR_Heavy R Finger3
+    100080: RIG_CHAR_Heavy R Finger31
+    100082: RIG_CHAR_Heavy R Finger32
+    100084: RIG_CHAR_Heavy R Finger4
+    100086: RIG_CHAR_Heavy R Finger41
+    100088: RIG_CHAR_Heavy R Finger42
+    100090: RIG_CHAR_Heavy R Foot
+    100092: RIG_CHAR_Heavy R Forearm
+    100094: RIG_CHAR_Heavy R Hand
+    100096: RIG_CHAR_Heavy R Thigh
+    100098: RIG_CHAR_Heavy R Toe0
+    100100: RIG_CHAR_Heavy R UpperArm
+    100102: RIG_CHAR_Heavy Spine
+    100104: RIG_CHAR_Heavy Spine1
+    100106: RIG_CHAR_Heavy Spine2
+    400000: //RootNode
+    400002: RIG_CHAR_Heavy
+    400004: RIG_CHAR_Heavy Head
+    400006: RIG_CHAR_Heavy L Calf
+    400008: RIG_CHAR_Heavy L Clavicle
+    400010: RIG_CHAR_Heavy L Finger0
+    400012: RIG_CHAR_Heavy L Finger01
+    400014: RIG_CHAR_Heavy L Finger02
+    400016: RIG_CHAR_Heavy L Finger1
+    400018: RIG_CHAR_Heavy L Finger11
+    400020: RIG_CHAR_Heavy L Finger12
+    400022: RIG_CHAR_Heavy L Finger2
+    400024: RIG_CHAR_Heavy L Finger21
+    400026: RIG_CHAR_Heavy L Finger22
+    400028: RIG_CHAR_Heavy L Finger3
+    400030: RIG_CHAR_Heavy L Finger31
+    400032: RIG_CHAR_Heavy L Finger32
+    400034: RIG_CHAR_Heavy L Finger4
+    400036: RIG_CHAR_Heavy L Finger41
+    400038: RIG_CHAR_Heavy L Finger42
+    400040: RIG_CHAR_Heavy L Foot
+    400042: RIG_CHAR_Heavy L Forearm
+    400044: RIG_CHAR_Heavy L Hand
+    400046: RIG_CHAR_Heavy L Thigh
+    400048: RIG_CHAR_Heavy L Toe0
+    400050: RIG_CHAR_Heavy L UpperArm
+    400052: RIG_CHAR_Heavy Neck
+    400054: RIG_CHAR_Heavy Pelvis
+    400056: RIG_CHAR_Heavy R Calf
+    400058: RIG_CHAR_Heavy R Clavicle
+    400060: RIG_CHAR_Heavy R Finger0
+    400062: RIG_CHAR_Heavy R Finger01
+    400064: RIG_CHAR_Heavy R Finger02
+    400066: RIG_CHAR_Heavy R Finger1
+    400068: RIG_CHAR_Heavy R Finger11
+    400070: RIG_CHAR_Heavy R Finger12
+    400072: RIG_CHAR_Heavy R Finger2
+    400074: RIG_CHAR_Heavy R Finger21
+    400076: RIG_CHAR_Heavy R Finger22
+    400078: RIG_CHAR_Heavy R Finger3
+    400080: RIG_CHAR_Heavy R Finger31
+    400082: RIG_CHAR_Heavy R Finger32
+    400084: RIG_CHAR_Heavy R Finger4
+    400086: RIG_CHAR_Heavy R Finger41
+    400088: RIG_CHAR_Heavy R Finger42
+    400090: RIG_CHAR_Heavy R Foot
+    400092: RIG_CHAR_Heavy R Forearm
+    400094: RIG_CHAR_Heavy R Hand
+    400096: RIG_CHAR_Heavy R Thigh
+    400098: RIG_CHAR_Heavy R Toe0
+    400100: RIG_CHAR_Heavy R UpperArm
+    400102: RIG_CHAR_Heavy Spine
+    400104: RIG_CHAR_Heavy Spine1
+    400106: RIG_CHAR_Heavy Spine2
+    7400000: Throw_Level_1
+    7400002: Throw_Level_2
+    7400004: Throw_Level_3
+    7400006: Cast_Loop_1
+    7400008: Start_SpellCast
+    7400010: End_SpellCast
+    7400012: Cast_Loop_2
+    7400014: Cast_Loop_3
+    7400016: Damage
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Throw_Level_1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: EmitRightHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: .0328541994
+            value: .0120124072
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .159972847
+            value: .0120124072
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .166904479
+            value: 1.01506364
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .729300737
+            value: 1.0154748
+            inSlope: .0311492514
+            outSlope: .0311492514
+            tangentMode: 0
+          - time: .732522011
+            value: .0117866918
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1.0328542
+            value: .0120124072
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      transformMask: []
+    - name: Throw_Level_2
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: EmitRightHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: -.00205339491
+            value: -.0124943852
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .0544437766
+            value: -.0124943852
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .059480153
+            value: 1.02892959
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .770141006
+            value: 1.03056645
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .775785208
+            value: -.0127136428
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .99794662
+            value: -.0124943852
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: EmitLeftHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .302259833
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .309288621
+            value: 1.02568173
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .6339342
+            value: 1.02490115
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .638418019
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      transformMask: []
+    - name: Throw_Level_3
+      takeName: Take 001
+      firstFrame: 153
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: EmitRightHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: -.0123203248
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .0809000656
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .0886146724
+            value: 1.04564643
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .769596756
+            value: 1.04252517
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .772990406
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .98767966
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: EmitLeftHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: .00410676003
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .28376779
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .288822204
+            value: 1.03827715
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .778038383
+            value: 1.04272008
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .780942976
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1.00410676
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      transformMask: []
+    - name: Cast_Loop_1
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: EmitRightHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: EmitLeftHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      transformMask: []
+    - name: Start_SpellCast
+      takeName: Take 001
+      firstFrame: 74
+      lastFrame: 121
+      wrapMode: 0
+      orientationOffsetY: -26.7000008
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: EmitRightHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: -.0123203248
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .0809000656
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .0886146724
+            value: 1.04564643
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .769596756
+            value: 1.04252517
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .922887743
+            value: 1.04564643
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .977412701
+            value: 1.04887378
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: EmitLeftHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: .00410676003
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .437771916
+            value: .00321827247
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .448986471
+            value: 1.03505886
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .778038383
+            value: 1.04272008
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1.02464068
+            value: 1.05237508
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1.02862346
+            value: 1.04647303
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      transformMask: []
+    - name: End_SpellCast
+      takeName: Take 001
+      firstFrame: 122
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 51.7000008
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: EmitRightHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .479423672
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .485966384
+            value: -.0524806529
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .98562628
+            value: -.0596059561
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: EmitLeftHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: .00061091641
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: .00061091641
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      transformMask: []
+    - name: Cast_Loop_2
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 121
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: EmitRightHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .479423672
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .485966384
+            value: -.0524806529
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .98562628
+            value: -.0596059561
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: EmitLeftHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: .00061091641
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: .00061091641
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      transformMask: []
+    - name: Cast_Loop_3
+      takeName: Take 001
+      firstFrame: 119
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: EmitRightHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .479423672
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .485966384
+            value: -.0524806529
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .98562628
+            value: -.0596059561
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: EmitLeftHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: .00061091641
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: .00061091641
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      transformMask: []
+    - name: Damage
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: EmitRightHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .479423672
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .485966384
+            value: -.0524806529
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .98562628
+            value: -.0596059561
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: EmitLeftHand
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: .00061091641
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: .00061091641
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: RIG_CHAR_Heavy Pelvis
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0913042054, y: 0, z: .0456521027}
+        preQ: {x: .452503324, y: .545316815, z: -.46484527, w: -.530838132}
+        postQ: {x: -.000114232302, y: -.0852115303, z: .99636209, w: .00121301413}
+        length: .114130296
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .209737703, y: 0, z: .104868852}
+        preQ: {x: .9522205, y: .255918741, z: .130158067, w: -.104117468}
+        postQ: {x: -4.47034836e-08, y: -.215528518, z: .976497531, w: 2.98023224e-08}
+        length: .262172192
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .209737644, y: 0, z: .104868822}
+        preQ: {x: .97159344, y: .225717843, z: -.0234430041, w: -.067141071}
+        postQ: {x: 1.78813934e-07, y: .124719359, z: .992191911, w: 5.96046412e-08}
+        length: .262172133
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .219125554, y: 0, z: .109562777}
+        preQ: {x: -.119792305, y: -.253653795, z: .657085717, w: -.699676812}
+        postQ: {x: 5.96046448e-08, y: -.230209813, z: .973141074, w: 0}
+        length: .273907006
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .219125569, y: 0, z: .109562784}
+        preQ: {x: .0673932582, y: .142418981, z: .666439116, w: -.728720665}
+        postQ: {x: -2.98023206e-08, y: .134900853, z: .990859091, w: -8.94069601e-08}
+        length: .273907036
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0598722547, y: 0, z: .0299361274}
+        preQ: {x: .0870673209, y: -.218282223, z: .95968318, w: .154208437}
+        postQ: {x: .0133072576, y: -.194902241, z: .977291167, w: .0820837244}
+        length: .074840337
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0803482607, y: 0, z: .0401741304}
+        preQ: {x: -.053310331, y: .125790194, z: .962810159, w: .233090743}
+        postQ: {x: -.0210501552, y: .171572372, z: .980798304, w: .0903018117}
+        length: .100435361
+        modified: 1
+    - boneName: RIG_CHAR_Heavy Spine
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .166857049, y: 0, z: .0834285244}
+        preQ: {x: .0172768813, y: .0833416954, z: -.99266237, w: .085889332}
+        postQ: {x: -.00134018064, y: .0652531534, z: -.997425795, w: .0296969581}
+        length: .208571389
+        modified: 1
+    - boneName: RIG_CHAR_Heavy Spine2
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .319749922, y: 0, z: .159874961}
+        preQ: {x: .0145545295, y: -.0114300093, z: .991663575, w: .127518103}
+        postQ: {x: .00699603558, y: .0847057551, z: .99569875, w: -.0368763208}
+        length: .399687529
+        modified: 1
+    - boneName: RIG_CHAR_Heavy Head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .159874961, y: 0, z: .0799374804}
+        preQ: {x: .0234279037, y: -.264602959, z: -.95621556, w: .122833818}
+        postQ: {x: -.000447064638, y: -.202754289, z: -.973672867, w: .104170769}
+        length: .199843764
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .130149752, y: 0, z: .065074876}
+        preQ: {x: -.48638317, y: -.626318455, z: -.369351804, w: .484495342}
+        postQ: {x: 3.35276127e-08, y: -.604919314, z: .796286702, w: -1.38388714e-08}
+        length: .162687257
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .130149767, y: 0, z: .0650748834}
+        preQ: {x: .691867352, y: -.506475329, z: -.401891887, w: -.321380049}
+        postQ: {x: -2.98023224e-08, y: -.797205746, z: .603707552, w: 5.40167093e-08}
+        length: .162687272
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .226258501, y: 0, z: .113129251}
+        preQ: {x: .0860276818, y: -.561505139, z: .66102016, w: -.490268677}
+        postQ: {x: -7.28759915e-08, y: -.656781197, z: .754081249, w: -7.25525311e-08}
+        length: .282823205
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .226258531, y: 0, z: .113129266}
+        preQ: {x: .3801139, y: -.734906256, z: .561502516, w: .0118751684}
+        postQ: {x: -8.05594027e-08, y: -.871498585, z: .49039796, w: -8.7544322e-08}
+        length: .282823235
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .179593369, y: 0, z: .0897966847}
+        preQ: {x: .0454614311, y: .0451336056, z: .742733657, w: -.66651547}
+        postQ: {x: 1.86264515e-09, y: .0675817505, z: .997713685, w: -2.88709998e-08}
+        length: .22449179
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .179593474, y: 0, z: .0897967368}
+        preQ: {x: .64376086, y: -.723205924, z: -.181403086, w: -.172156677}
+        postQ: {x: 5.21540642e-08, y: -.963561535, z: -.267486662, w: -2.00234354e-08}
+        length: .224491909
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0897966847, y: 0, z: .0448983423}
+        preQ: {x: 1.72294676e-08, y: -.657470822, z: .753479958, w: -1.49345851e-08}
+        postQ: {x: -.0381671712, y: -.998675525, z: .0173816048, w: .0298054162}
+        length: .112245895
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0897967368, y: 0, z: .0448983684}
+        preQ: {x: 2.60770321e-08, y: -.871071815, z: .491155624, w: -5.40167093e-08}
+        postQ: {x: .0228313021, y: -.235877618, z: .97128123, w: -.0212863926}
+        length: .112245955
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0515095927, y: 0, z: .0257547963}
+        preQ: {x: -.147226378, y: .128407121, z: -.633007348, w: -.749091268}
+        postQ: {x: -.194665045, y: -.0164238475, z: -.978479207, w: -.0664394721}
+        length: .0643870085
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0515095927, y: 0, z: .0257547963}
+        preQ: {x: .136204645, y: -.106435239, z: -.629676044, w: -.757382095}
+        postQ: {x: .172615081, y: .0288032368, z: -.979251504, w: -.10218031}
+        length: .0643870085
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: .0485610105, y: 0, z: .0242805053}
+        preQ: {x: -.524486125, y: -.519465923, z: .612367272, w: -.282976598}
+        postQ: {x: 1.19209304e-07, y: -.0506736413, z: .998715222, w: -7.45058131e-08}
+        length: .0607012808
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0323349088, y: 0, z: .0161674544}
+        preQ: {x: .00806363486, y: -.0173281468, z: .97207433, w: .233893558}
+        postQ: {x: -1.49011612e-07, y: -.0451255143, z: .998981297, w: 4.02331381e-07}
+        length: .0404186547
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0242511854, y: 0, z: .0121255927}
+        preQ: {x: .00876362715, y: -.0169843975, z: .980813324, w: .194010317}
+        postQ: {x: -.00240218639, y: -.0450615063, z: .997564912, w: .0531773567}
+        length: .030313991
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0355801396, y: 0, z: .0177900698}
+        preQ: {x: -.298085302, y: -.943419933, z: .0691922903, w: -.127734393}
+        postQ: {x: -8.8382518e-07, y: -.999872804, z: .0159403812, w: 1.75074106e-07}
+        length: .0444751941
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0352786072, y: 0, z: .0176393036}
+        preQ: {x: -.341301948, y: -.935446799, z: .0918477625, w: -.0040109586}
+        postQ: {x: -2.03028321e-07, y: -.999700963, z: .0244509131, w: -3.22506821e-07}
+        length: .0440982766
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .02645896, y: 0, z: .01322948}
+        preQ: {x: -.30572325, y: -.947671473, z: .0916307047, w: -.00747773144}
+        postQ: {x: .116367154, y: -.9929052, z: .0242846608, w: -.00284642656}
+        length: .0330737084
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0451220535, y: 0, z: .0225610267}
+        preQ: {x: -.326077133, y: -.939263761, z: .0683812276, w: -.0823484436}
+        postQ: {x: 4.30271029e-07, y: -.999828041, z: .0185416173, w: -1.14796421e-08}
+        length: .0564025864
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0380630046, y: 0, z: .0190315023}
+        preQ: {x: -.342348188, y: -.935357094, z: .0887816027, w: -.00475582108}
+        postQ: {x: -5.66244125e-07, y: -.999650955, z: .0264166482, w: -7.40401447e-08}
+        length: .0475787744
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0285472553, y: 0, z: .0142736277}
+        preQ: {x: -.306775242, y: -.947620213, z: .0885380581, w: -.00810681842}
+        postQ: {x: .11636097, y: -.992855489, z: .026237065, w: -.00307501853}
+        length: .0356840789
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0447524786, y: 0, z: .0223762393}
+        preQ: {x: -.335728914, y: -.939280689, z: .0702623427, w: -.0100557134}
+        postQ: {x: -1.06170759e-07, y: -.999811113, z: .0194343086, w: -1.06720094e-07}
+        length: .0559406169
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0347051248, y: 0, z: .0173525624}
+        preQ: {x: -.306017011, y: -.948141932, z: .0857016221, w: -.00594833679}
+        postQ: {x: -2.66358171e-07, y: -.999811053, z: .019434344, w: 1.21726735e-08}
+        length: .0433814228
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0260288473, y: 0, z: .0130144237}
+        preQ: {x: -.306017041, y: -.948141932, z: .0857016221, w: -.00594832981}
+        postQ: {x: -2.60770264e-07, y: -.999811053, z: .0194343422, w: 1.96341681e-08}
+        length: .0325360671
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0338929296, y: 0, z: .0169464648}
+        preQ: {x: -.331085593, y: -.940679729, z: .0684829652, w: .0285294969}
+        postQ: {x: 1.13621343e-06, y: -.999853373, z: -.0171217229, w: -1.55894654e-07}
+        length: .0423661806
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .030426072, y: 0, z: .015213036}
+        preQ: {x: -.306091875, y: -.950635791, z: .0507108793, w: .00524153281}
+        postQ: {x: -9.62987428e-07, y: -.999853432, z: -.0171212628, w: 4.06544096e-08}
+        length: .0380325988
+        modified: 1
+    - boneName: RIG_CHAR_Heavy L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0228195526, y: 0, z: .0114097763}
+        preQ: {x: -.306091875, y: -.950635791, z: .0507108793, w: .00524152583}
+        postQ: {x: -9.66712719e-07, y: -.999853373, z: -.017121261, w: 3.3203829e-08}
+        length: .0285244491
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0355801582, y: 0, z: .0177900791}
+        preQ: {x: -.16843079, y: .223548561, z: -.916947484, w: -.284366548}
+        postQ: {x: -1.60187469e-07, y: -.2362829, z: .971684337, w: -1.22003243e-07}
+        length: .0444752164
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0352786146, y: 0, z: .0176393073}
+        preQ: {x: -.0656375661, y: .231844664, z: -.909407437, w: -.338995159}
+        postQ: {x: 1.69500694e-07, y: -.237266511, z: .971444607, w: -6.54254038e-08}
+        length: .0440982878
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0264589656, y: 0, z: .0132294828}
+        preQ: {x: -.0743480846, y: .22920011, z: -.921562731, w: -.304403961}
+        postQ: {x: .0276184957, y: -.235653564, z: .964840829, w: -.113078348}
+        length: .0330737159
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0451220796, y: 0, z: .0225610398}
+        preQ: {x: -.134855375, y: .223436847, z: -.908575535, w: -.326160282}
+        postQ: {x: 1.15483992e-07, y: -.234181345, z: .972192883, w: 4.62867291e-07}
+        length: .0564026162
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .038063053, y: 0, z: .0190315265}
+        preQ: {x: -.0650811195, y: .226884261, z: -.910604775, w: -.339244545}
+        postQ: {x: 1.86264497e-08, y: -.234875634, z: .972025394, w: 1.59343458e-07}
+        length: .047578834
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0285472926, y: 0, z: .0142736463}
+        preQ: {x: -.0736041516, y: .224263981, z: -.922768474, w: -.304608554}
+        postQ: {x: .0273400452, y: -.23327896, z: .965417743, w: -.113145694}
+        length: .0356841236
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0447525978, y: 0, z: .0223762989}
+        preQ: {x: -.063255854, y: .234118596, z: -.905491948, w: -.348240584}
+        postQ: {x: -1.49011603e-08, y: -.234110653, z: .97220993, w: -2.18860787e-08}
+        length: .0559407659
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0347051173, y: 0, z: .0173525587}
+        preQ: {x: -.0733041763, y: .234726235, z: -.920250535, w: -.304415703}
+        postQ: {x: 5.58793545e-08, y: -.234110638, z: .97220993, w: -1.94646418e-07}
+        length: .0433814153
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0260288399, y: 0, z: .0130144199}
+        preQ: {x: -.0733041912, y: .234726235, z: -.920250535, w: -.304415703}
+        postQ: {x: 7.07805086e-08, y: -.234110638, z: .97220993, w: -1.95577741e-07}
+        length: .0325360596
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0338929556, y: 0, z: .0169464778}
+        preQ: {x: -.0267900527, y: .239525422, z: -.904531598, w: -.351756155}
+        postQ: {x: -6.3329928e-08, y: -.199272379, z: .97994411, w: -5.63450101e-07}
+        length: .0423662104
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0304260477, y: 0, z: .0152130239}
+        preQ: {x: -.0623872504, y: .202740893, z: -.927836478, w: -.306795329}
+        postQ: {x: 1.97440386e-07, y: -.199272439, z: .97994417, w: 8.84756375e-08}
+        length: .038032569
+        modified: 1
+    - boneName: RIG_CHAR_Heavy R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0228195339, y: 0, z: .011409767}
+        preQ: {x: -.0623872466, y: .202740893, z: -.927836478, w: -.306795329}
+        postQ: {x: 1.86264501e-07, y: -.199272409, z: .97994411, w: 8.98726213e-08}
+        length: .0285244267
+        modified: 1
+    skeleton:
+    - name: Anim_Wizard_Throws
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy
+      position: {x: .00118330121, y: .591401458, z: -.00231127348}
+      rotation: {x: -.336854637, y: .624834418, z: .619992971, w: .334244519}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Pelvis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -.442425877, y: .575704038, z: .328258842, w: .604210436}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Thigh
+      position: {x: 1.52587887e-07, y: 1.54376025e-07, z: .098658286}
+      rotation: {x: -.0230940748, y: .94834131, z: .296724081, w: .109863967}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Calf
+      position: {x: -.262172252, y: -9.53674295e-09, z: 0}
+      rotation: {x: -6.19144984e-08, y: 5.76629577e-10, z: .111080885, w: .993811309}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Foot
+      position: {x: -.273907036, y: 4.76837148e-09, z: 1.90734859e-08}
+      rotation: {x: .0313756205, y: .0844575688, z: -.0578672439, w: .994250357}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Toe0
+      position: {x: -.057749223, y: .114954449, z: .00576650584}
+      rotation: {x: -1.04356552e-07, y: -6.50603795e-07, z: -.71832788, w: .695704579}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Thigh
+      position: {x: -1.14440915e-07, y: -1.15633007e-07, z: -.0986582562}
+      rotation: {x: .0264624786, y: .997694254, z: -.0371008888, w: -.0502929725}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Calf
+      position: {x: -.262172192, y: 4.76837148e-09, z: -9.53674295e-09}
+      rotation: {x: .00023519987, y: -.00170642091, z: .129836366, w: .991533875}
+      scale: {x: 1, y: .999999762, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Foot
+      position: {x: -.273907036, y: -3.81469718e-08, z: 1.90734859e-08}
+      rotation: {x: .041909419, y: -.0606522448, z: -.135172874, w: .988075435}
+      scale: {x: .99999994, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Toe0
+      position: {x: -.0577492304, y: .114954434, z: -.00576648721}
+      rotation: {x: -.00554545783, y: .00800361577, z: -.699622571, w: .714446127}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Spine
+      position: {x: -.114129938, y: .000278095889, z: -2.40534541e-06}
+      rotation: {x: .0189809464, y: -.0216923002, z: .0549501628, w: .998072922}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Spine1
+      position: {x: -.0911192298, y: -9.25826971e-05, z: -1.06573107e-05}
+      rotation: {x: .0568790212, y: .00220104121, z: .0513574965, w: .997056842}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Spine2
+      position: {x: -.117727891, y: -.000221157068, z: -4.41837292e-05}
+      rotation: {x: .0939515904, y: -.00282581407, z: -.164851427, w: .981829464}
+      scale: {x: .999999881, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Neck
+      position: {x: -.314575344, y: -.0290268883, z: -1.93369378e-05}
+      rotation: {x: .177508339, y: .044013124, z: .00750593888, w: .983105898}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy Head
+      position: {x: -.0843247995, y: .00289415359, z: -1.19209282e-08}
+      rotation: {x: -.0612645149, y: -.0258973725, z: .0248586256, w: .997475743}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Clavicle
+      position: {x: .134090424, y: .00665780064, z: .0747898445}
+      rotation: {x: .722157121, y: -.0942198113, z: -.680019796, w: .0847622454}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L UpperArm
+      position: {x: -.162687272, y: -1.90734859e-08, z: 0}
+      rotation: {x: -.0646766648, y: .0169545095, z: .135030076, w: .988582969}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Forearm
+      position: {x: -.282823324, y: 0, z: -3.81469718e-08}
+      rotation: {x: -.000934779528, y: .00388021418, z: .0333422571, w: .999436021}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Hand
+      position: {x: -.224491879, y: -9.53674295e-09, z: 0}
+      rotation: {x: -.741054118, y: .00916199107, z: .0475516021, w: .669696689}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger0
+      position: {x: -.0505819321, y: .0609506592, z: -.0358399972}
+      rotation: {x: .590760767, y: -.39800176, z: .253193796, w: .654590786}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger01
+      position: {x: -.0607013106, y: 0, z: 0}
+      rotation: {x: 1.78813778e-07, y: 7.45057491e-07, z: -.0408283547, w: .999166131}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger02
+      position: {x: -.0404186621, y: 3.81469718e-08, z: 0}
+      rotation: {x: 1.36425027e-09, y: 9.39917211e-09, z: .0532311611, w: .998582184}
+      scale: {x: .999999881, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger1
+      position: {x: -.129357979, y: .0134903714, z: -.0769292042}
+      rotation: {x: -.00128950446, y: -.0504311621, z: -.0176428668, w: .998570859}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger11
+      position: {x: -.0444752127, y: 3.81469718e-08, z: 1.90734859e-08}
+      rotation: {x: 9.33650455e-08, y: 2.16066738e-07, z: -.0377735309, w: .999286294}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger12
+      position: {x: -.0440983176, y: -1.90734859e-08, z: -1.90734859e-08}
+      rotation: {x: -3.4690546e-09, y: -2.95997289e-08, z: -.116402172, w: .99320215}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger2
+      position: {x: -.131296962, y: .00280647282, z: -.0310070794}
+      rotation: {x: -.00308596785, y: -.0434179045, z: -.0450070091, w: .998037875}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger21
+      position: {x: -.0564026237, y: 0, z: 0}
+      rotation: {x: -1.44354885e-07, y: 1.20699303e-06, z: -.0377703384, w: .999286413}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger22
+      position: {x: -.0475788116, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -.116402172, w: .99320215}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger3
+      position: {x: -.130056068, y: -.00227619172, z: .0143735502}
+      rotation: {x: -.0039920765, y: -.0482048504, z: -.0540273786, w: .997367203}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger31
+      position: {x: -.0559406281, y: -3.81469718e-08, z: -9.53674295e-09}
+      rotation: {x: 1.39698386e-09, y: -2.60208542e-18, z: -1.86264515e-09, w: .99999994}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger32
+      position: {x: -.0433814228, y: 3.81469718e-08, z: 0}
+      rotation: {x: 1.39698386e-09, y: -2.60208542e-18, z: -1.86264515e-09, w: .99999994}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger4
+      position: {x: -.124201313, y: .00924545247, z: .055408068}
+      rotation: {x: -.0395908356, y: -.0457709953, z: -.0508677512, w: .9968701}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger41
+      position: {x: -.0423661806, y: -3.81469718e-08, z: -1.43051144e-08}
+      rotation: {x: -8.14907197e-10, y: 1.89735367e-19, z: -2.3283063e-10, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy L Finger42
+      position: {x: -.0380326062, y: 3.81469718e-08, z: 4.76837148e-09}
+      rotation: {x: -8.14907197e-10, y: 1.89735367e-19, z: -2.3283063e-10, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Clavicle
+      position: {x: .144297704, y: -.0358972736, z: -.0387677103}
+      rotation: {x: .626153529, y: .161479563, z: .745580256, w: .161139801}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R UpperArm
+      position: {x: -.162687302, y: 1.90734859e-08, z: 0}
+      rotation: {x: -.135604382, y: -.0113270544, z: -.0332616754, w: .990139782}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Forearm
+      position: {x: -.282823265, y: 0, z: -3.81469718e-08}
+      rotation: {x: .00115159119, y: -.007488098, z: .0324043892, w: .999446094}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Hand
+      position: {x: -.224491879, y: -9.53674295e-09, z: -3.81469718e-08}
+      rotation: {x: .730203092, y: .00732826302, z: -.030342577, w: .682516634}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger0
+      position: {x: -.0505819321, y: .060950622, z: .0358400047}
+      rotation: {x: -.613323092, y: .417916119, z: .204497769, w: .638248742}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger01
+      position: {x: -.0607013293, y: 0, z: 1.90734859e-08}
+      rotation: {x: 1.44612331e-08, y: -8.2721483e-09, z: -.0559167974, w: .998435378}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger02
+      position: {x: -.0404186621, y: 0, z: 0}
+      rotation: {x: 1.46817323e-08, y: 4.51321336e-09, z: .053231135, w: .998582184}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger1
+      position: {x: -.129357949, y: .0134903714, z: .0769292042}
+      rotation: {x: .000989281107, y: .0334419757, z: -.0176622532, w: .999284029}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger11
+      position: {x: -.0444752127, y: 0, z: -9.53674295e-09}
+      rotation: {x: -2.08616143e-07, y: -2.68220759e-07, z: -.0377710871, w: .999286354}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger12
+      position: {x: -.0440983176, y: -9.53674295e-09, z: 9.53674295e-09}
+      rotation: {x: -5.66540548e-09, y: 1.5667128e-08, z: -.116402194, w: .99320215}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger2
+      position: {x: -.131296992, y: .00280639646, z: .0310070794}
+      rotation: {x: .00373235112, y: .0448829904, z: -.0500194468, w: .997732222}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger21
+      position: {x: -.0564026237, y: 0, z: 0}
+      rotation: {x: 2.38418366e-07, y: -2.6077009e-08, z: -.0377704687, w: .999286354}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger22
+      position: {x: -.0475788489, y: -1.90734859e-08, z: -9.53674295e-09}
+      rotation: {x: 8.2671967e-09, y: 6.53266818e-09, z: -.116402157, w: .99320215}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger3
+      position: {x: -.130056068, y: -.0022762299, z: -.0143735595}
+      rotation: {x: .00399228698, y: .048204001, z: -.054026451, w: .997367322}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger31
+      position: {x: -.0559407398, y: 0, z: 0}
+      rotation: {x: 3.72528963e-09, y: -7.45057926e-09, z: 7.45057926e-09, w: .99999994}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger32
+      position: {x: -.0433814228, y: 0, z: 9.53674295e-09}
+      rotation: {x: 3.72528963e-09, y: -7.45057926e-09, z: 7.45057926e-09, w: .99999994}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger4
+      position: {x: -.12420135, y: .00924541429, z: -.0554080755}
+      rotation: {x: .0395906344, y: .0457704701, z: -.0508678108, w: .9968701}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger41
+      position: {x: -.0423662178, y: -9.53674295e-09, z: 0}
+      rotation: {x: 0, y: 7.45058015e-09, z: -0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RIG_CHAR_Heavy R Finger42
+      position: {x: -.038032569, y: 0, z: 1.43051144e-08}
+      rotation: {x: 0, y: 7.45058015e-09, z: -0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 3
+  userData: 

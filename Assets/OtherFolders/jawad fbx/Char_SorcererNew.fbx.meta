@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 8415ea75b2bc04347a00949aa2beeef5
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MSH_Char_Sorcerer_Body
+    100004: MSH_Prop_Sorcerer_Staff
+    100006: Sorcerer
+    100008: Sorcerer ClothCape_L
+    100010: Sorcerer ClothCape_L02
+    100012: Sorcerer ClothCape_L03
+    100014: Sorcerer ClothCape_R
+    100016: Sorcerer ClothCape_R02
+    100018: Sorcerer ClothCape_R03
+    100020: Sorcerer ClothTailBack
+    100022: Sorcerer ClothTailBack02
+    100024: Sorcerer ClothTailBack03
+    100026: Sorcerer ClothTailBack04
+    100028: Sorcerer ClothTailFront
+    100030: Sorcerer ClothTailFront02
+    100032: Sorcerer Face_Eye_L
+    100034: Sorcerer Face_Eye_R
+    100036: Sorcerer FaceJaw
+    100038: Sorcerer Head
+    100040: Sorcerer HeadMaskBack
+    100042: Sorcerer HeadMaskFront
+    100044: Sorcerer L Calf
+    100046: Sorcerer L Clavicle
+    100048: Sorcerer L Finger0
+    100050: Sorcerer L Finger01
+    100052: Sorcerer L Finger02
+    100054: Sorcerer L Finger1
+    100056: Sorcerer L Finger11
+    100058: Sorcerer L Finger12
+    100060: Sorcerer L Finger2
+    100062: Sorcerer L Finger21
+    100064: Sorcerer L Finger22
+    100066: Sorcerer L Finger3
+    100068: Sorcerer L Finger31
+    100070: Sorcerer L Finger32
+    100072: Sorcerer L Finger4
+    100074: Sorcerer L Finger41
+    100076: Sorcerer L Finger42
+    100078: Sorcerer L Foot
+    100080: Sorcerer L Forearm
+    100082: Sorcerer L Hand
+    100084: Sorcerer L Thigh
+    100086: Sorcerer L Toe0
+    100088: Sorcerer L UpperArm
+    100090: Sorcerer Neck
+    100092: Sorcerer Pelvis
+    100094: Sorcerer Prop1
+    100096: Sorcerer R Calf
+    100098: Sorcerer R Clavicle
+    100100: Sorcerer R Finger0
+    100102: Sorcerer R Finger01
+    100104: Sorcerer R Finger02
+    100106: Sorcerer R Finger1
+    100108: Sorcerer R Finger11
+    100110: Sorcerer R Finger12
+    100112: Sorcerer R Finger2
+    100114: Sorcerer R Finger21
+    100116: Sorcerer R Finger22
+    100118: Sorcerer R Finger3
+    100120: Sorcerer R Finger31
+    100122: Sorcerer R Finger32
+    100124: Sorcerer R Finger4
+    100126: Sorcerer R Finger41
+    100128: Sorcerer R Finger42
+    100130: Sorcerer R Foot
+    100132: Sorcerer R Forearm
+    100134: Sorcerer R Hand
+    100136: Sorcerer R Thigh
+    100138: Sorcerer R Toe0
+    100140: Sorcerer R UpperArm
+    100142: Sorcerer ShoulderGuard_L
+    100144: Sorcerer ShoulderGuard_R
+    100146: Sorcerer Spine
+    100148: Sorcerer Spine1
+    100150: Sorcerer Spine2
+    100152: SpellPoint
+    400000: //RootNode
+    400002: MSH_Char_Sorcerer_Body
+    400004: MSH_Prop_Sorcerer_Staff
+    400006: Sorcerer
+    400008: Sorcerer ClothCape_L
+    400010: Sorcerer ClothCape_L02
+    400012: Sorcerer ClothCape_L03
+    400014: Sorcerer ClothCape_R
+    400016: Sorcerer ClothCape_R02
+    400018: Sorcerer ClothCape_R03
+    400020: Sorcerer ClothTailBack
+    400022: Sorcerer ClothTailBack02
+    400024: Sorcerer ClothTailBack03
+    400026: Sorcerer ClothTailBack04
+    400028: Sorcerer ClothTailFront
+    400030: Sorcerer ClothTailFront02
+    400032: Sorcerer Face_Eye_L
+    400034: Sorcerer Face_Eye_R
+    400036: Sorcerer FaceJaw
+    400038: Sorcerer Head
+    400040: Sorcerer HeadMaskBack
+    400042: Sorcerer HeadMaskFront
+    400044: Sorcerer L Calf
+    400046: Sorcerer L Clavicle
+    400048: Sorcerer L Finger0
+    400050: Sorcerer L Finger01
+    400052: Sorcerer L Finger02
+    400054: Sorcerer L Finger1
+    400056: Sorcerer L Finger11
+    400058: Sorcerer L Finger12
+    400060: Sorcerer L Finger2
+    400062: Sorcerer L Finger21
+    400064: Sorcerer L Finger22
+    400066: Sorcerer L Finger3
+    400068: Sorcerer L Finger31
+    400070: Sorcerer L Finger32
+    400072: Sorcerer L Finger4
+    400074: Sorcerer L Finger41
+    400076: Sorcerer L Finger42
+    400078: Sorcerer L Foot
+    400080: Sorcerer L Forearm
+    400082: Sorcerer L Hand
+    400084: Sorcerer L Thigh
+    400086: Sorcerer L Toe0
+    400088: Sorcerer L UpperArm
+    400090: Sorcerer Neck
+    400092: Sorcerer Pelvis
+    400094: Sorcerer Prop1
+    400096: Sorcerer R Calf
+    400098: Sorcerer R Clavicle
+    400100: Sorcerer R Finger0
+    400102: Sorcerer R Finger01
+    400104: Sorcerer R Finger02
+    400106: Sorcerer R Finger1
+    400108: Sorcerer R Finger11
+    400110: Sorcerer R Finger12
+    400112: Sorcerer R Finger2
+    400114: Sorcerer R Finger21
+    400116: Sorcerer R Finger22
+    400118: Sorcerer R Finger3
+    400120: Sorcerer R Finger31
+    400122: Sorcerer R Finger32
+    400124: Sorcerer R Finger4
+    400126: Sorcerer R Finger41
+    400128: Sorcerer R Finger42
+    400130: Sorcerer R Foot
+    400132: Sorcerer R Forearm
+    400134: Sorcerer R Hand
+    400136: Sorcerer R Thigh
+    400138: Sorcerer R Toe0
+    400140: Sorcerer R UpperArm
+    400142: Sorcerer ShoulderGuard_L
+    400144: Sorcerer ShoulderGuard_R
+    400146: Sorcerer Spine
+    400148: Sorcerer Spine1
+    400150: Sorcerer Spine2
+    400152: SpellPoint
+    2300000: MSH_Prop_Sorcerer_Staff
+    3300000: MSH_Prop_Sorcerer_Staff
+    4300000: MSH_Prop_Sorcerer_Staff
+    4300002: MSH_Char_Sorcerer_Body
+    9500000: //RootNode
+    13700000: MSH_Char_Sorcerer_Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
